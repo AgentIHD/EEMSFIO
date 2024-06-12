@@ -11,9 +11,9 @@ ScaledBorderAndShadow: yes
 [Aegisub Project Garbage]
 Last Style Storage: Eromanga
 Video Zoom Percent: 0.500000
-Scroll Position: 375
-Active Line: 376
-Video Position: 33725
+Scroll Position: 326
+Active Line: 342
+Video Position: 33983
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -21,15 +21,15 @@ Style: Default,Graviola Soft Medium,36,&H00FFFFFF,&H000000FF,&H0086144B,&H000000
 Style: Title,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,67,27,187,0
 Style: Next Title,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,27,53,160,0
 Style: RightSign,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,400,27,120,0
-Style: LeftSign,Jaapokki,20,&H00E900DC,&H00FF0000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0,0,0,0
-Style: EpNum,Jaapokki,33,&H00FFFFFF,&H00FF0000,&H006A6474,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,0,0,0,0
+Style: LeftSign,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,160,533,53,0
+Style: EpNum,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,67,533,333,0
 Style: LeftSignM,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,133,560,160,0
 Style: RightSignM,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,560,107,160,0
-Style: CenterSignM,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,307,307,160,0
+Style: CenterSignM,Jaapokki,36,&H00F4F4F5,&H00FF0000,&H0088858C,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,307,307,160,0
 Style: DefaultLeftH,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,7,0,0,28,0
 Style: DefaultRightH,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,9,0,0,28,0
 Style: DefaultLow,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
-Style: RightSignL2,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,560,107,133,0
+Style: RightSignL2,Jaapokki,20,&H006D5F66,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,560,107,133,0
 Style: DefaultLow2,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
 Style: DefaultLef2,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,1,0,0,28,0
 Style: DefaultLeftM,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,1,0,0,28,0
@@ -38,447 +38,429 @@ Style: SMR,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,
 Style: LeftSignM2,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,4,40,547,160,0
 Style: RightSignM2,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,547,27,160,0
 Style: CenterSignM2,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,5,320,320,160,0
-Style: DefaultC,Jaapokki,27,&H00FDFCFA,&H000000FF,&H009596A0,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,0,0,28,0
+Style: DefaultC,Bemio,27,&H00FFFFFF,&H000000FF,&H0086144B,&H00000000,0,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
 Style: 3rd,Open Sans Semibold,36,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,267,160,53,0
-Style: ENd_1,Elegant Lux Mager,45,&H00DBD30E,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
-Style: ENd_2,Elegant Lux Mager,45,&H00CC9D0E,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
+Style: ENd_1,Elegant Lux Mager,45,&H000A0FEB,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
+Style: ENd_2,Elegant Lux Mager,45,&H0015E8F9,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
 Style: OP_Kanji,いろはマルみかみ Regular,30,&H00C5BA6E,&H00FF0000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,4,0,0,0,0
 Style: OP_Romaji,Perisphere,19,&H00C5BA6E,&H00FF0000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,4,0,0,0,0
 Style: OP_Eng,Monoglyceride,25,&H00C5BA6E,&H00FF0000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,5,0,0,0,0
-Style: Nii-sama,Monoglyceride,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,1,2,10,10,10,1
+Style: Nii-sama,Monoglyceride,20,&H000A0DEC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.34,0:00:05.51,Default,NTP,0,0,0,,{\a6}I'm Jinno Megumi,\NIzumi Sagiri-chan's classmate!
-Dialogue: 0,0:00:06.09,0:00:07.97,Default,NTP,0,0,0,,Sagiri's classmate?
-Dialogue: 0,0:00:07.97,0:00:09.81,Default,NTP,0,0,0,,Yes! I'm the class representative!
-Dialogue: 0,0:00:18.52,0:00:21.90,Default,NTP,0,0,0,,So, are you Izumi-san's older brother?
-Dialogue: 0,0:00:21.90,0:00:23.03,Default,NTP,0,0,0,,Y-Yeah.
-Dialogue: 0,0:00:24.24,0:00:27.07,Default,NTP,0,0,0,,But, you're not related to her by blood, right?
-Dialogue: 0,0:00:27.07,0:00:31.33,Default,NTP,0,0,0,,And you live all alone\Nwith your younger sister. Is that okay?
-Dialogue: 0,0:00:31.83,0:00:35.29,Default,NTP,0,0,0,,We do have a guardian,\Nwho is almost never home.
-Dialogue: 0,0:00:37.17,0:00:39.67,Default,NTP,0,0,0,,Let's see, it was Jinno-san, right?
-Dialogue: 0,0:00:39.96,0:00:42.17,Default,NTP,0,0,0,,Just call me Megumin!
-Dialogue: 0,0:00:42.67,0:00:44.63,Default,NTP,0,0,0,,Then, Megumi-chan?
-Dialogue: 0,0:00:44.80,0:00:45.93,Default,NTP,0,0,0,,That's no good!
-Dialogue: 0,0:00:46.72,0:00:50.72,Default,NTP,0,0,0,,I want to get along with you too, Onii-san.
-Dialogue: 0,0:00:51.14,0:00:55.44,Default,NTP,0,0,0,,If you can't call me Megumin, then please\Ncall me just Megumi.
-Dialogue: 0,0:00:56.81,0:00:59.69,Default,NTP,0,0,0,,W-Well then, nice to meet you, Megumi.
-Dialogue: 0,0:01:00.02,0:01:00.90,Default,NTP,0,0,0,,Yup!
-Dialogue: 0,0:01:01.27,0:01:03.24,Default,NTP,0,0,0,,So, what brings you here?
-Dialogue: 0,0:01:04.69,0:01:05.82,Default,NTP,0,0,0,,What's wrong?
-Dialogue: 0,0:01:05.82,0:01:07.66,Default,NTP,0,0,0,,This is strange.
-Dialogue: 0,0:01:07.66,0:01:11.70,Default,NTP,0,0,0,,There can't be any boys who don't fall in love\Nwith me at first sight.
-Dialogue: 0,0:01:11.70,0:01:13.66,Default,NTP,0,0,0,,Are you one of those who love boys?
-Dialogue: 0,0:01:13.91,0:01:15.16,Default,NTP,0,0,0,,No way!
-Dialogue: 0,0:01:15.66,0:01:17.83,Default,NTP,0,0,0,,I couldn't fall in love that fast.
-Dialogue: 0,0:01:19.79,0:01:21.04,Default,NTP,0,0,0,,{\i1}You fool.{\i0}
-Dialogue: 0,0:01:21.04,0:01:26.09,Default,NTP,0,0,0,,{\i1}Every day, I wash the panties of my younger sister,\Na much more beautiful girl than you.{\i0}
-Dialogue: 0,0:01:26.22,0:01:29.34,Default,NTP,0,0,0,,{\i1}There's no way I'd fall for any woman\Nat first sight.{\i0}
-Dialogue: 0,0:01:30.47,0:01:32.26,Default,NTP,0,0,0,,If you don't react to me,
-Dialogue: 0,0:01:32.26,0:01:35.52,Default,NTP,0,0,0,,then your penis really is useless.
-Dialogue: 0,0:01:35.81,0:01:37.27,Default,NTP,0,0,0,,Yeah, yeah, that's ri—
-Dialogue: 0,0:01:37.27,0:01:38.35,Default,NTP,0,0,0,,What!?
-Dialogue: 0,0:01:38.94,0:01:40.61,Default,NTP,0,0,0,,What... did you just...
-Dialogue: 0,0:01:40.61,0:01:42.57,Default,NTP,0,0,0,,say {\i1}penis{\i0} or something?
-Dialogue: 0,0:01:42.73,0:01:45.53,Default,NTP,0,0,0,,I did! Is something wrong with that?
-Dialogue: 0,0:01:45.53,0:01:46.36,Default,NTP,0,0,0,,Penises.
-Dialogue: 0,0:01:46.36,0:01:47.86,Default,NTP,0,0,0,,I love them!
-Dialogue: 0,0:01:48.24,0:01:49.61,Default,NTP,0,0,0,,L-Love!?
-Dialogue: 0,0:01:50.12,0:01:55.58,Default,NTP,0,0,0,,Yes! Girls my age all love penises!
-Dialogue: 0,0:01:56.29,0:01:57.37,Default,NTP,0,0,0,,Stare...
-Dialogue: 0,0:01:59.25,0:02:00.63,Default,NTP,0,0,0,,I-Impossible.
-Dialogue: 0,0:02:00.63,0:02:03.80,Default,NTP,0,0,0,,- I'm sure your younger sister loves penises, too.\N- Wh-What has happened to Japan?
-Dialogue: 0,0:02:04.05,0:02:05.88,Default,NTP,0,0,0,,That just can't be!
-Dialogue: 0,0:02:06.72,0:02:09.13,Default,NTP,0,0,0,,That was a joke. Sheesh!
-Dialogue: 0,0:02:09.34,0:02:11.55,Default,NTP,0,0,0,,Why the hell did you come here?
-Dialogue: 0,0:02:12.43,0:02:16.81,Default,NTP,0,0,0,,I came here to get Izumi Sagiri-san\Nto go to school!
-Dialogue: 0,0:03:49.32,0:03:50.82,Default,NTP,0,0,0,,What are you looking at?
-Dialogue: 0,0:03:51.03,0:03:51.86,Default,NTP,0,0,0,,Well...
-Dialogue: 0,0:03:52.49,0:03:54.95,Default,NTP,0,0,0,,This is such a cute calendar.
-Dialogue: 0,0:03:56.37,0:03:58.95,Default,NTP,0,0,0,,It's the calendar for a novel I like.
-Dialogue: 0,0:03:59.12,0:04:01.25,Default,NTP,0,0,0,,Not Izumi-san, but you, Onii-san?
-Dialogue: 0,0:04:01.62,0:04:03.46,Default,NTP,0,0,0,,Are you one of those otaku?
-Dialogue: 0,0:04:03.79,0:04:04.75,Default,NTP,0,0,0,,Stab!
-Dialogue: 0,0:04:04.75,0:04:06.21,Default,NTP,0,0,0,,W-Well, yeah.
-Dialogue: 0,0:04:06.50,0:04:07.67,Default,NTP,0,0,0,,That's great!
-Dialogue: 0,0:04:09.05,0:04:11.76,Default,NTP,0,0,0,,I'm also a big otaku as well.
-Dialogue: 0,0:04:11.76,0:04:14.76,Default,NTP,0,0,0,,I've always been reading a lot of manga!
-Dialogue: 0,0:04:15.22,0:04:18.60,Default,NTP,0,0,0,,Oh, that's unusual.\NWhat kind of things do you read?
-Dialogue: 0,0:04:18.60,0:04:20.72,Default,NTP,0,0,0,,I love stuff like OnePi!
-Dialogue: 0,0:04:21.10,0:04:23.52,Default,NTP,0,0,0,,I-I see. I love that, too.
-Dialogue: 0,0:04:23.52,0:04:24.48,Default,NTP,0,0,0,,Right?
-Dialogue: 0,0:04:24.85,0:04:28.11,Default,NTP,0,0,0,,Because it's a "super-popular" title\Nthat everyone knows about.
-Dialogue: 0,0:04:28.11,0:04:29.94,Default,NTP,0,0,0,,By the way...
-Dialogue: 0,0:04:30.44,0:04:32.94,Default,NTP,0,0,0,,Is Izumi-san's room on the second floor?
-Dialogue: 0,0:04:32.94,0:04:34.49,Default,NTP,0,0,0,,Y-Yeah.
-Dialogue: 0,0:04:39.37,0:04:40.58,Default,NTP,0,0,0,,Hold on a second.
-Dialogue: 0,0:04:42.41,0:04:43.62,Default,NTP,0,0,0,,Sagiri.
-Dialogue: 0,0:04:43.62,0:04:45.62,Default,NTP,0,0,0,,Your classmate's here to see you.
-Dialogue: 0,0:04:47.88,0:04:49.50,Default,NTP,0,0,0,,She's rather angry.
-Dialogue: 0,0:04:54.84,0:04:57.76,Default,NTP,0,0,0,,Yes, Izumi here. Who may this be?
-Dialogue: 0,0:04:57.76,0:04:58.93,Default,NTP,0,0,0,,{\i1}It's me.{\i0}
-Dialogue: 0,0:04:58.93,0:05:00.01,Default,NTP,0,0,0,,Sagiri!?
-Dialogue: 0,0:05:00.01,0:05:01.18,Default,NTP,0,0,0,,Y-Yes.
-Dialogue: 0,0:05:01.18,0:05:04.85,Default,NTP,0,0,0,,{\i1}Why are you calling me\Nwhile you're still in the house?{\i0}
-Dialogue: 0,0:05:04.85,0:05:08.81,Default,NTP,0,0,0,,It's the only way I could speak to you\Nwithout opening the door.
-Dialogue: 0,0:05:09.19,0:05:12.61,Default,NTP,0,0,0,,That's fine. But how did you know my number?
-Dialogue: 0,0:05:12.61,0:05:16.32,Default,NTP,0,0,0,,{\i1}A-Anyway, Nii-san,\Nwh-what's the meaning of this?{\i0}
-Dialogue: 0,0:05:16.78,0:05:20.53,Default,NTP,0,0,0,,Oh, the class rep for your class\Nis here at our place right now.
-Dialogue: 0,0:05:21.37,0:05:24.54,Default,NTP,0,0,0,,Why did you let her inside our house?
-Dialogue: 0,0:05:24.54,0:05:28.33,Default,NTP,0,0,0,,Well, maybe you would\Ncome out of the room because of thi—
-Dialogue: 0,0:05:28.33,0:05:32.38,Default,NTP,0,0,0,,No way! I won't, won't, won't!\NI said I won't, so I won't come out!
-Dialogue: 0,0:05:32.92,0:05:34.38,Default,NTP,0,0,0,,Chase her out of here!
-Dialogue: 0,0:05:34.76,0:05:38.14,Default,NTP,0,0,0,,Maybe by phone,\Nyou can talk to your classmate—
-Dialogue: 0,0:05:38.14,0:05:39.14,Default,NTP,0,0,0,,{\i1}No!{\i0}
-Dialogue: 0,0:05:39.39,0:05:40.64,Default,NTP,0,0,0,,All right.
-Dialogue: 0,0:05:40.64,0:05:45.68,Default,NTP,0,0,0,,But I can't chase her out immediately,\Nso I'll just listen to what she has to say. Later.
-Dialogue: 0,0:05:45.68,0:05:47.77,Default,NTP,0,0,0,,{\i1}Oh, h-hold on.{\i0}
-Dialogue: 0,0:05:48.35,0:05:52.15,Default,NTP,0,0,0,,Is that class rep a girl?
-Dialogue: 0,0:05:53.69,0:05:55.07,Default,NTP,0,0,0,,Sorry to make you wait.
-Dialogue: 0,0:05:57.45,0:06:01.07,Default,NTP,0,0,0,,{\i1}I'll give you orders every so often,\Nso make sure she doesn't notice.{\i0}
-Dialogue: 0,0:06:01.07,0:06:02.08,Default,NTP,0,0,0,,S-Sure.
-Dialogue: 0,0:06:02.45,0:06:04.49,Default,NTP,0,0,0,,Huh? Where's Izumi-san?
-Dialogue: 0,0:06:04.74,0:06:07.21,Default,NTP,0,0,0,,I thought you went up to call her down?
-Dialogue: 0,0:06:07.21,0:06:10.25,Default,NTP,0,0,0,,Yeah. I did call out to her, but...
-Dialogue: 0,0:06:10.25,0:06:11.17,Default,NTP,0,0,0,,But?
-Dialogue: 0,0:06:11.17,0:06:13.59,Default,NTP,0,0,0,,She just won't leave her room.
-Dialogue: 0,0:06:13.59,0:06:15.30,Default,NTP,0,0,0,,How's that! There's nothing we can do!
-Dialogue: 0,0:06:15.71,0:06:18.18,Default,NTP,0,0,0,,{\a6}Don't say that so arrogantly.
-Dialogue: 0,0:06:19.05,0:06:20.93,Default,NTP,0,0,0,,{\a6}To think she won't leave her room....
-Dialogue: 0,0:06:21.55,0:06:24.64,Default,NTP,0,0,0,,{\a6}Onii-san, do you think it's okay\Nto stay this way?
-Dialogue: 0,0:06:24.64,0:06:26.39,Default,NTP,0,0,0,,{\a6}Of course I don't think it's good.
-Dialogue: 0,0:06:27.14,0:06:33.06,Default,NTP,0,0,0,,For the past year, I've been doing my best\Nin my own way so she'll come out of her room.
-Dialogue: 0,0:06:33.90,0:06:37.28,Default,NTP,0,0,0,,Then, your objective is the same as mine!
-Dialogue: 0,0:06:37.28,0:06:39.11,Default,NTP,0,0,0,,W-Well, I guess so.
-Dialogue: 0,0:06:39.61,0:06:43.12,Default,NTP,0,0,0,,Then, Onii-san, form an alliance with me!
-Dialogue: 0,0:06:43.70,0:06:47.58,Default,NTP,0,0,0,,We'll call it the\N"Alliance to Drag Izumi-chan out of Her Room"!
-Dialogue: 0,0:06:48.04,0:06:49.66,Default,NTP,0,0,0,,An alliance, huh...
-Dialogue: 0,0:06:54.59,0:06:56.21,Default,NTP,0,0,0,,Please sit next to me.
-Dialogue: 0,0:07:00.55,0:07:04.05,Default,NTP,0,0,0,,Huh? Onii-san, what's wrong with you?
-Dialogue: 0,0:07:04.05,0:07:07.52,Default,NTP,0,0,0,,Your face is all red. So cute!
-Dialogue: 0,0:07:07.52,0:07:09.14,Default,NTP,0,0,0,,{\i1}Calling you "Onii-san"...{\i0}
-Dialogue: 0,0:07:09.14,0:07:11.06,Default,NTP,0,0,0,,{\i1}What's with her? So irritating.{\i0}
-Dialogue: 0,0:07:11.31,0:07:12.85,Default,NTP,0,0,0,,Onii-san, you too.
-Dialogue: 0,0:07:12.85,0:07:14.77,Default,NTP,0,0,0,,You're such an idiot.
-Dialogue: 0,0:07:14.77,0:07:18.32,Default,NTP,0,0,0,,I'm sure you're being all spoony\Nand stuff! You're the worst!
-Dialogue: 0,0:07:18.53,0:07:22.78,Default,NTP,0,0,0,,I-In the first place,\Nwhy do you want Sagiri to go to school?
-Dialogue: 0,0:07:23.11,0:07:26.37,Default,NTP,0,0,0,,I love making new friends.
-Dialogue: 0,0:07:26.37,0:07:27.95,Default,NTP,0,0,0,,After entering middle school,
-Dialogue: 0,0:07:27.95,0:07:31.62,Default,NTP,0,0,0,,I immediately became friends\Nwith everyone in the same grade.
-Dialogue: 0,0:07:31.75,0:07:33.12,Default,NTP,0,0,0,,E-Everyone!?
-Dialogue: 0,0:07:33.46,0:07:37.21,Default,NTP,0,0,0,,But I realized I hadn't\Nbecome friends with Izumi-chan yet.
-Dialogue: 0,0:07:37.21,0:07:43.97,Default,NTP,0,0,0,,And so, I'm totally passionate about\Ngetting Izumi-chan to come to school.
-Dialogue: 0,0:07:44.14,0:07:46.35,Default,NTP,0,0,0,,{\i1}I really hate this type.{\i0}
-Dialogue: 0,0:07:46.35,0:07:49.22,Default,NTP,0,0,0,,{\i1}A hypocrite forcing their kindness\Nonto others. Go home!{\i0}
-Dialogue: 0,0:07:49.22,0:07:51.77,Default,NTP,0,0,0,,And? What are you specifically going to do?
-Dialogue: 0,0:07:52.31,0:07:58.57,Default,NTP,0,0,0,,Onii-san, do you know exactly what Izumi-chan\Nis doing, all cooped up in her room?
-Dialogue: 0,0:07:58.78,0:08:00.74,Default,NTP,0,0,0,,Let's see...
-Dialogue: 0,0:08:00.74,0:08:05.57,Default,NTP,0,0,0,,The typical case is someone plinking around\Nforever on the computer.
-Dialogue: 0,0:08:05.78,0:08:07.37,Default,NTP,0,0,0,,If so, there's a secret plan!
-Dialogue: 0,0:08:07.78,0:08:08.83,Default,NTP,0,0,0,,{\i1}Secret plan?{\i0}
-Dialogue: 0,0:08:09.95,0:08:11.58,Default,NTP,0,0,0,,Please cancel your internet.
-Dialogue: 0,0:08:13.62,0:08:18.04,Default,NTP,0,0,0,,Now, let's call your provider right now,\Nand cut off the root of all evil.
-Dialogue: 0,0:08:19.42,0:08:22.84,Default,NTP,0,0,0,,You're not human!\NDo you think you're God or something!?
-Dialogue: 0,0:08:23.30,0:08:25.68,Default,NTP,0,0,0,,Wh-When did this story get so big?
-Dialogue: 0,0:08:26.18,0:08:27.89,Default,NTP,0,0,0,,All things considered, that's way too rough!
-Dialogue: 0,0:08:29.51,0:08:33.52,Default,NTP,0,0,0,,If you have friends, you don't need\Nthe internet or computers and stuff, right?
-Dialogue: 0,0:08:33.89,0:08:35.23,Default,NTP,0,0,0,,Wh-What?
-Dialogue: 0,0:08:35.60,0:08:38.11,Default,NTP,0,0,0,,Or rather, it's kind of strange.
-Dialogue: 0,0:08:38.11,0:08:42.11,Default,NTP,0,0,0,,If you don't have friends, isn't it meaningless\Nto have just the internet on hand?
-Dialogue: 0,0:08:42.11,0:08:43.57,Default,NTP,0,0,0,,I mean, you have no friends.
-Dialogue: 0,0:08:43.82,0:08:47.07,Default,NTP,0,0,0,,W-Well, there's all sorts of stuff you can do\Nif you have a computer.
-Dialogue: 0,0:08:47.07,0:08:52.33,Default,NTP,0,0,0,,Isn't it a lot more fun\Nto be chatting with friends at school?
-Dialogue: 0,0:08:53.54,0:08:55.92,Default,NTP,0,0,0,,It's not fun at all!
-Dialogue: 0,0:08:56.96,0:08:59.17,Default,NTP,0,0,0,,Onii-san? Are you all right?
-Dialogue: 0,0:08:59.63,0:09:01.59,Default,NTP,0,0,0,,More like, that voice just now...
-Dialogue: 0,0:09:01.84,0:09:04.26,Default,NTP,0,0,0,,I-It's fine. No problem.
-Dialogue: 0,0:09:04.67,0:09:06.05,Default,NTP,0,0,0,,{\a6}Stare...
-Dialogue: 0,0:09:06.05,0:09:07.76,Default,NTP,0,0,0,,{\a6}I see.
-Dialogue: 0,0:09:08.05,0:09:10.01,Default,NTP,0,0,0,,{\a6}Izumi-chan, you're listening, right?
-Dialogue: 0,0:09:11.35,0:09:12.64,Default,NTP,0,0,0,,{\i1}Nii-san, bluff your way.{\i0}
-Dialogue: 0,0:09:14.94,0:09:16.94,Default,NTP,0,0,0,,Don't ask for the impossible.
-Dialogue: 0,0:09:18.31,0:09:20.23,Default,NTP,0,0,0,,- She found out, so...\N- Stop.
-Dialogue: 0,0:09:22.61,0:09:27.03,Default,NTP,0,0,0,,Izumi-chan, if you end the conversation\Nright now, you might regret it, you know?
-Dialogue: 0,0:09:27.66,0:09:30.12,Default,NTP,0,0,0,,What is this wench saying?
-Dialogue: 0,0:09:30.41,0:09:37.58,Default,NTP,0,0,0,,- Rub, rub! Rub, rub! Hehe, Onii-san smells nice!\N- H-Hey, what are you...
-Dialogue: 0,0:09:40.09,0:09:44.88,Default,NTP,0,0,0,,Onii-san, your heart is finally racing for me.
-Dialogue: 0,0:09:44.88,0:09:47.13,Default,NTP,0,0,0,,S-Stop th—
-Dialogue: 0,0:09:48.39,0:09:51.43,Default,NTP,0,0,0,,Onii-san, have you ever...
-Dialogue: 0,0:09:51.43,0:09:52.60,Default,NTP,0,0,0,,kissed anyone?
-Dialogue: 0,0:09:56.81,0:09:58.44,Default,NTP,0,0,0,,This one's mine!
-Dialogue: 0,0:10:01.02,0:10:04.57,Default,NTP,0,0,0,,Izumi-chan, nice to meet you! I'm Megumin!
-Dialogue: 0,0:10:04.78,0:10:06.65,Default,NTP,0,0,0,,H-Hey! Give that back!
-Dialogue: 0,0:10:08.20,0:10:11.41,Default,NTP,0,0,0,,Here you go. She hung up, though.
-Dialogue: 0,0:10:11.74,0:10:12.87,Default,NTP,0,0,0,,Sheesh.
-Dialogue: 0,0:10:13.12,0:10:14.62,Default,NTP,0,0,0,,I'm so sorry!
-Dialogue: 0,0:10:14.62,0:10:17.75,Default,NTP,0,0,0,,Anyway, can I ask a few questions?
-Dialogue: 0,0:10:18.17,0:10:19.33,Default,NTP,0,0,0,,What?
-Dialogue: 0,0:10:19.67,0:10:22.09,Default,NTP,0,0,0,,What kind of a girl is Izumi-chan?
-Dialogue: 0,0:10:22.09,0:10:24.80,Default,NTP,0,0,0,,What kind of a girl? Let's see...
-Dialogue: 0,0:10:24.80,0:10:27.55,Default,NTP,0,0,0,,She's tremendously beautiful\Nand cute in appearance.
-Dialogue: 0,0:10:30.72,0:10:31.68,Default,NTP,0,0,0,,She hung up, right?
-Dialogue: 0,0:10:32.05,0:10:34.10,Default,NTP,0,0,0,,Yes, yes. And?
-Dialogue: 0,0:10:35.81,0:10:40.48,Default,NTP,0,0,0,,At first glance, she's expressionless,\Nand quiet. But she's truly a lovely maiden.
-Dialogue: 0,0:10:41.19,0:10:45.07,Default,NTP,0,0,0,,When you talk to her, her facial expression\Nchanges often, and she's really charming.
-Dialogue: 0,0:10:45.40,0:10:47.03,Default,NTP,0,0,0,,I see.
-Dialogue: 0,0:10:48.65,0:10:49.78,Default,NTP,0,0,0,,What are you laughing about?
-Dialogue: 0,0:10:49.99,0:10:53.24,Default,NTP,0,0,0,,Oh, nothing! And?
-Dialogue: 0,0:10:53.53,0:10:54.91,Default,NTP,0,0,0,,And...
-Dialogue: 0,0:10:55.29,0:10:56.70,Default,NTP,0,0,0,,She's a tremendously good artist!
-Dialogue: 0,0:10:57.08,0:10:59.46,Default,NTP,0,0,0,,Oh? What kind of art?
-Dialogue: 0,0:10:59.46,0:11:02.17,Default,NTP,0,0,0,,- She's really good at lewd art!\N- Lewd art?
-Dialogue: 0,0:11:02.46,0:11:05.42,Default,NTP,0,0,0,,{\i1}Yeah. Tremendously wonderful lewd art!{\i0}
-Dialogue: 0,0:11:06.46,0:11:11.05,Default,NTP,0,0,0,,{\i1}C-Can it be that Izumi-chan\Nis a perverted girl?{\i0}
-Dialogue: 0,0:11:11.05,0:11:12.14,Default,NTP,0,0,0,,{\i1}Erotic!{\i0}
-Dialogue: 0,0:11:12.51,0:11:15.64,Default,NTP,0,0,0,,I mean, she's a first year in middle school,\Nbut quite the panties...
-Dialogue: 0,0:11:15.64,0:11:16.72,Default,NTP,0,0,0,,...are worn!?
-Dialogue: 0,0:11:16.72,0:11:17.89,Default,NTP,0,0,0,,...are drawn!
-Dialogue: 0,0:11:18.23,0:11:24.77,Default,NTP,0,0,0,,G-Geez. I had totally thought Izumi-chan\Nand Onii-san were in a really weird relationship.
-Dialogue: 0,0:11:25.11,0:11:27.23,Default,NTP,0,0,0,,Stop with the impossible misunderstanding.
-Dialogue: 0,0:11:27.23,0:11:31.28,Default,NTP,0,0,0,,Just because we live together doesn't mean\Nbrother and sister have a romantic relationship.
-Dialogue: 0,0:11:32.86,0:11:34.07,Default,NTP,0,0,0,,{\i1}Why are you quiet there?{\i0}
-Dialogue: 0,0:11:34.07,0:11:35.78,Default,NTP,0,0,0,,{\i1}N-No, nothing.{\i0}
-Dialogue: 0,0:11:37.29,0:11:39.04,Default,NTP,0,0,0,,{\i1}Then, one last question.{\i0}
-Dialogue: 0,0:11:39.04,0:11:42.33,Default,NTP,0,0,0,,{\i1}How do you want your younger sister to end up?{\i0}
-Dialogue: 0,0:11:42.83,0:11:44.13,Default,NTP,0,0,0,,{\i1}What do you mean, how?{\i0}
-Dialogue: 0,0:11:44.13,0:11:47.59,Default,NTP,0,0,0,,{\i1}Are you really serious\Nabout making her go to school?{\i0}
-Dialogue: 0,0:11:47.59,0:11:52.13,Default,NTP,0,0,0,,{\i1}I mean, it's like you're protecting\Nyour younger sister from me.{\i0}
-Dialogue: 0,0:11:52.55,0:11:55.22,Default,NTP,0,0,0,,{\i1}- You could say that I'm not, come to think.\N- What?{\i0}
-Dialogue: 0,0:11:55.22,0:11:58.18,Default,NTP,0,0,0,,{\i1}I just want Sagiri to come out of her room.{\i0}
-Dialogue: 0,0:11:58.39,0:12:01.69,Default,NTP,0,0,0,,If she stayed home,\Nshe'll never have any friends.
-Dialogue: 0,0:12:02.81,0:12:04.35,Default,NTP,0,0,0,,Friends, huh...
-Dialogue: 0,0:12:04.90,0:12:10.99,Default,NTP,0,0,0,,She does have friends, or rather,\Nlots of people who think dearly of her.
-Dialogue: 0,0:12:11.36,0:12:12.57,DefaultC,NTP,0,0,0,,{\pos(187.267,219.111)}"When you speak of dreams,\Nyou should laugh!"
-Dialogue: 0,0:12:13.66,0:12:15.20,Default,NTP,0,0,0,,Isn't that amazing?
-Dialogue: 0,0:12:15.20,0:12:16.45,Default,NTP,0,0,0,,That's...
-Dialogue: 0,0:12:16.78,0:12:21.00,Default,NTP,0,0,0,,So, even if she's not going to school,\Nor even if she doesn't leave her room,
-Dialogue: 0,0:12:21.00,0:12:24.21,Default,NTP,0,0,0,,My younger sister is my pride and joy.\NI'm proud of her.
-Dialogue: 0,0:12:25.79,0:12:27.04,Default,NTP,0,0,0,,I see.
-Dialogue: 0,0:12:27.04,0:12:30.88,Default,NTP,0,0,0,,So that's what you think about Izumi-chan!
-Dialogue: 0,0:12:32.47,0:12:33.84,Default,NTP,0,0,0,,Thanks for coming today.
-Dialogue: 0,0:12:34.05,0:12:39.01,Default,NTP,0,0,0,,Oh no, I'll be coming again.\NI haven't given up yet.
-Dialogue: 0,0:12:39.01,0:12:43.39,Default,NTP,0,0,0,,I'll come up with a plan that'll make\NIzumi-chan volunteer to go to school!
-Dialogue: 0,0:12:43.39,0:12:44.14,Default,NTP,0,0,0,,Yeah!
-Dialogue: 0,0:12:44.14,0:12:48.36,Default,NTP,0,0,0,,Then, my regards\Nfor the days to come, Onii-san!
-Dialogue: 0,0:12:50.90,0:12:54.61,Default,NTP,0,0,0,,Sagiri, I heard a strange sound earlier,\Nbut are you okay?
-Dialogue: 0,0:13:02.25,0:13:05.17,Default,NTP,0,0,0,,I guess she won't answer.
-Dialogue: 0,0:13:08.88,0:13:11.96,Default,NTP,0,0,0,,{\a6}{\i1}Izumi-chan,\Nyou sure are loved by your brother!{\i0}
-Dialogue: 0,0:13:20.56,0:13:23.27,Default,NTP,0,0,0,,{\i1}All the project proposals you sent us\Nare no good.{\i0}
-Dialogue: 0,0:13:23.27,0:13:24.48,Default,NTP,0,0,0,,{\i1}They were all crap.{\i0}
-Dialogue: 0,0:13:24.89,0:13:27.60,Default,NTP,0,0,0,,Bring some new ones\Nbefore the meeting tomorrow.
-Dialogue: 0,0:13:28.02,0:13:29.61,Default,NTP,0,0,0,,- See you.\N- H-Hey, wait!
-Dialogue: 0,0:13:33.36,0:13:34.53,Default,NTP,0,0,0,,Balse!
-Dialogue: 0,0:13:34.82,0:13:35.78,Default,NTP,0,0,0,,Let's do this!
-Dialogue: 0,0:13:39.87,0:13:40.95,Default,NTP,0,0,0,,Morning.
-Dialogue: 0,0:13:40.95,0:13:43.20,Default,NTP,0,0,0,,Sagiri. I'll leave your meal here!
-Dialogue: 0,0:13:44.96,0:13:47.12,Default,NTP,0,0,0,,"Replenish snacks soon"?
-Dialogue: 0,0:13:49.00,0:13:49.84,Default,NTP,0,0,0,,Got it.
-Dialogue: 0,0:13:49.84,0:13:52.34,EpNum,NTP,0,0,0,,{\a6\pos(364.817,276.889)}Adachi Fourth Public High School
-Dialogue: 0,0:13:50.42,0:13:52.34,Default,NTP,0,0,0,,- See you!\N- Bye!
-Dialogue: 0,0:13:56.80,0:13:59.39,Default,NTP,0,0,0,,Yo! You look somewhat tired there.
-Dialogue: 0,0:14:00.85,0:14:03.31,Default,NTP,0,0,0,,I was writing up a plot until morning.
-Dialogue: 0,0:14:03.31,0:14:05.23,Default,NTP,0,0,0,,I'm heading to a meeting for it.
-Dialogue: 0,0:14:05.23,0:14:09.27,Default,NTP,0,0,0,,Oh, right. I still have a bit of time,\Nso I'll drop by Takasago Books.
-Dialogue: 0,0:14:10.15,0:14:11.69,Default,NTP,0,0,0,,Please buy a lot.
-Dialogue: 0,0:14:13.15,0:14:14.57,LeftSign,NTP,0,0,0,,{\a6\frz7.309\pos(265,168.444)}Tomoe's Recommendation Corner
-Dialogue: 0,0:14:15.07,0:14:16.65,Default,NTP,0,0,0,,Nothing less from Tomoe.
-Dialogue: 0,0:14:17.11,0:14:18.91,Default,NTP,0,0,0,,There's a great lineup here.
-Dialogue: 0,0:14:19.53,0:14:22.03,Default,NTP,0,0,0,,I wonder if my books are selling.
-Dialogue: 0,0:14:26.08,0:14:27.54,Default,NTP,0,0,0,,{\an8}Silverwolf of Reincarnation
-Dialogue: 0,0:14:27.75,0:14:30.63,Default,NTP,0,0,0,,All volumes are still in stock?
-Dialogue: 0,0:14:39.47,0:14:40.80,Default,NTP,0,0,0,,- All right.\N- Hey!
-Dialogue: 0,0:14:41.22,0:14:42.76,Default,NTP,0,0,0,,What are you doing?
-Dialogue: 0,0:14:43.05,0:14:46.48,Default,NTP,0,0,0,,Well, the author is promoting his own work.
-Dialogue: 0,0:14:46.48,0:14:48.35,Default,NTP,0,0,0,,You're interfering with my business.
-Dialogue: 0,0:14:48.35,0:14:50.52,Default,NTP,0,0,0,,Put them back in the shelves they were in.
-Dialogue: 0,0:14:50.90,0:14:54.98,Default,NTP,0,0,0,,At the least, as a friend, can't you put them\Nin the recommendation shelf?
-Dialogue: 0,0:14:55.23,0:14:56.90,Default,NTP,0,0,0,,Nope!
-Dialogue: 0,0:14:56.90,0:15:00.49,Default,NTP,0,0,0,,Currently, I'm displaying Yamada Elf-sensei's\Nautographed books with the cover showing.
-Dialogue: 0,0:15:00.70,0:15:02.45,Default,NTP,0,0,0,,Then, I'll sign my books too!
-Dialogue: 0,0:15:02.45,0:15:03.70,Default,NTP,0,0,0,,Stop it.
-Dialogue: 0,0:15:03.99,0:15:06.12,Default,NTP,0,0,0,,I won't be able to return them if you do.
-Dialogue: 0,0:15:06.12,0:15:07.66,Default,NTP,0,0,0,,Dammit.
-Dialogue: 0,0:15:09.21,0:15:10.62,Default,NTP,0,0,0,,I'm so jealous.
-Dialogue: 0,0:15:10.96,0:15:14.63,Default,NTP,0,0,0,,It's getting an anime version.\NBut it really is an interesting series.
-Dialogue: 0,0:15:14.63,0:15:18.17,Default,NTP,0,0,0,,Mune-kun, if you want your stuff\Nlined up on my recommendation shelf,
-Dialogue: 0,0:15:18.17,0:15:22.80,Default,NTP,0,0,0,,write some super-interesting novel\Nthat strikes chords in readers' hearts!
-Dialogue: 0,0:15:22.80,0:15:24.93,Default,NTP,0,0,0,,Damn! Just you wait!
-Dialogue: 0,0:15:25.22,0:15:29.06,Default,NTP,0,0,0,,That aside, can I get the autographed book\Nby Yamada Elf-sensei?
-Dialogue: 0,0:15:29.68,0:15:31.14,Default,NTP,0,0,0,,Thanks, as always!
-Dialogue: 0,0:15:34.27,0:15:35.82,Default,NTP,0,0,0,,Why isn't it all right?
-Dialogue: 0,0:15:36.07,0:15:40.28,Default,NTP,0,0,0,,I, as an Oricon #1 author, am saying so!
-Dialogue: 0,0:15:40.57,0:15:44.37,Default,NTP,0,0,0,,So? Why do you think I'd do something\Nthat would benefit another company?
-Dialogue: 0,0:15:44.37,0:15:45.41,Default,NTP,0,0,0,,Kagurazaka-san?
-Dialogue: 0,0:15:46.66,0:15:48.16,Default,NTP,0,0,0,,You're so selfish.
-Dialogue: 0,0:15:48.16,0:15:50.25,Default,NTP,0,0,0,,All right, I have no choice.
-Dialogue: 0,0:15:51.16,0:15:54.88,Default,NTP,0,0,0,,As a special favor,\NI'll write my next series for your company!
-Dialogue: 0,0:15:55.17,0:15:56.63,Default,NTP,0,0,0,,Huh? No thank you.
-Dialogue: 0,0:15:57.75,0:16:00.30,Default,NTP,0,0,0,,What? I couldn't hear you clearly.
-Dialogue: 0,0:16:02.09,0:16:03.76,Default,NTP,0,0,0,,I am an Oricon #1 author!
-Dialogue: 0,0:16:04.01,0:16:07.51,Default,NTP,0,0,0,,I am the prettiest\Nand best light-novel author in history!
-Dialogue: 0,0:16:07.81,0:16:13.40,Default,NTP,0,0,0,,And I'm saying I'll wear the tainted name of\Ntraitor to write for this publishing company!
-Dialogue: 0,0:16:13.65,0:16:18.44,Default,NTP,0,0,0,,Such an exceptional condition won't ever come\Nagain for all eternity if you miss it right now!
-Dialogue: 0,0:16:19.11,0:16:21.65,Default,NTP,0,0,0,,Can you go home soon, please?
-Dialogue: 0,0:16:22.11,0:16:24.49,Default,NTP,0,0,0,,Izumi-sensei, I've been waiting for you.
-Dialogue: 0,0:16:24.49,0:16:25.37,Default,NTP,0,0,0,,Hey!
-Dialogue: 0,0:16:25.37,0:16:28.12,Default,NTP,0,0,0,,Sheesh, you don't have to be hiding over there.
-Dialogue: 0,0:16:28.12,0:16:29.91,Default,NTP,0,0,0,,N-No, it's not that...
-Dialogue: 0,0:16:29.91,0:16:33.37,Default,NTP,0,0,0,,I'm talking to her right now.\NPlease don't butt in!
-Dialogue: 0,0:16:33.37,0:16:35.71,Default,NTP,0,0,0,,Um, what's the situation here?
-Dialogue: 0,0:16:35.71,0:16:36.96,Default,NTP,0,0,0,,More like, who's this?
-Dialogue: 0,0:16:38.75,0:16:40.92,Default,NTP,0,0,0,,This is Izumi Masamune-sensei.
-Dialogue: 0,0:16:41.42,0:16:44.30,Default,NTP,0,0,0,,And, this is Yamada Elf-sensei.
-Dialogue: 0,0:16:47.14,0:16:49.01,Default,NTP,0,0,0,,- Y- Yamada Elf-sensei?\N- Izumi Masamune?
-Dialogue: 0,0:16:49.14,0:16:51.98,Default,NTP,0,0,0,,Sh-She's such a young girl!
-Dialogue: 0,0:16:52.48,0:16:54.52,Default,NTP,0,0,0,,You're one to talk.
-Dialogue: 0,0:16:56.15,0:16:59.15,Default,NTP,0,0,0,,So there were authors this young\Nother than myself.
-Dialogue: 0,0:16:59.15,0:17:02.03,Default,NTP,0,0,0,,So, what is Yamada Elf-sensei\Ndoing in our editorial office?
-Dialogue: 0,0:17:03.45,0:17:05.49,Default,NTP,0,0,0,,Why, thank you for asking!
-Dialogue: 0,0:17:05.49,0:17:09.12,Default,NTP,0,0,0,,It's because Eromanga-sensei\Nwill be drawing illustrations for my next title!
-Dialogue: 0,0:17:12.41,0:17:15.79,Default,NTP,0,0,0,,I'm head over heels in love\Nwith Eromanga-sensei's illustrations.
-Dialogue: 0,0:17:15.79,0:17:20.21,Default,NTP,0,0,0,,I want that lewd paintbrush to draw\Nthe best, fully naked human in the world!
-Dialogue: 0,0:17:20.21,0:17:24.17,Default,NTP,0,0,0,,Add my literary talent to that,\Nand without a doubt, it's a decisive advantage!
-Dialogue: 0,0:17:26.97,0:17:31.60,Default,NTP,0,0,0,,{\a6}The "ultimate light-novel" that nobody\Nhas ever seen before will be complete!
-Dialogue: 0,0:17:31.85,0:17:34.35,Default,NTP,0,0,0,,{\a6}No, Eromanga-sensei is paired up with me...
-Dialogue: 0,0:17:34.35,0:17:36.02,Default,NTP,0,0,0,,{\a6}I know that.
-Dialogue: 0,0:17:36.77,0:17:41.19,Default,NTP,0,0,0,,{\a6}Instead of drawing illustrations for\Na lowly author who isn't even on the rankings,
-Dialogue: 0,0:17:41.19,0:17:45.45,Default,NTP,0,0,0,,{\a6}working together with me,\Na super-popular author, has got to be better!
-Dialogue: 0,0:17:48.20,0:17:50.08,Default,NTP,0,0,0,,Sales numbers are justice!
-Dialogue: 0,0:17:51.03,0:17:55.46,Default,NTP,0,0,0,,Just you wait. I'll pile my books\Non top of yours at the bookstore again.
-Dialogue: 0,0:17:55.46,0:17:58.58,Default,NTP,0,0,0,,Stop that. My books will be tainted if you do!
-Dialogue: 0,0:17:58.58,0:18:01.67,Default,NTP,0,0,0,,And did you just say "again"?\NYou really are the scum of humanity!
-Dialogue: 0,0:18:01.67,0:18:06.47,Default,NTP,0,0,0,,Yamada-sensei. I've said this many times,\Nbut the decision is up to Eromanga-sensei.
-Dialogue: 0,0:18:06.47,0:18:11.05,Default,NTP,0,0,0,,And I've been telling you\Nthat Eromanga-sensei hasn't replied to me!
-Dialogue: 0,0:18:11.05,0:18:13.01,Default,NTP,0,0,0,,I want you to do some convincing, too!
-Dialogue: 0,0:18:13.01,0:18:14.02,Default,NTP,0,0,0,,Yeah, yeah.
-Dialogue: 0,0:18:14.02,0:18:15.56,Default,NTP,0,0,0,,What's with that attitude!
-Dialogue: 0,0:18:15.56,0:18:18.60,Default,NTP,0,0,0,,Do you know who I,\Nan Oricon #1 author, exactly am!?
-Dialogue: 0,0:18:19.48,0:18:22.73,Default,NTP,0,0,0,,I think your popularity is merely a fluke.\NHow about that?
-Dialogue: 0,0:18:23.11,0:18:26.03,Default,NTP,0,0,0,,What was that? Correct yourself, stupid editor!
-Dialogue: 0,0:18:26.03,0:18:28.28,Default,NTP,0,0,0,,You will bow down before my literary talent!
-Dialogue: 0,0:18:28.57,0:18:32.16,Default,NTP,0,0,0,,Literary talent? Yamada-sensei,\Nyour novels are often dissed
-Dialogue: 0,0:18:32.16,0:18:36.04,Default,NTP,0,0,0,,in curator websites,\Nclaiming you write terrible sentences.
-Dialogue: 0,0:18:36.37,0:18:39.83,Default,NTP,0,0,0,,That's wrong! I'm writing in a way\Nthat's easy to understand!
-Dialogue: 0,0:18:39.83,0:18:43.55,Default,NTP,0,0,0,,Really! You don't understand anything!\NSuch an incompetent editor!
-Dialogue: 0,0:18:44.59,0:18:46.92,Default,NTP,0,0,0,,Look here, remember this.
-Dialogue: 0,0:18:47.59,0:18:51.60,Default,NTP,0,0,0,,All light-novel authors\Nother than me are outdated scum.
-Dialogue: 0,0:18:51.60,0:18:55.68,Default,NTP,0,0,0,,And nowadays, my sentences,\Nthat are easy to read and understand,
-Dialogue: 0,0:18:55.68,0:18:59.02,Default,NTP,0,0,0,,is paving the new path\Nfor the world of light-novels!
-Dialogue: 0,0:18:59.02,0:19:02.61,Default,NTP,0,0,0,,In other words,\NI am the savior of the light-novel world.
-Dialogue: 0,0:19:02.86,0:19:05.57,Default,NTP,0,0,0,,No! I am light-novel itself!
-Dialogue: 0,0:19:08.61,0:19:11.91,Default,NTP,0,0,0,,- Yeah, yeah. See you later, Light-novel-chan.\N- H-Hey, what...
-Dialogue: 0,0:19:11.91,0:19:16.33,Default,NTP,0,0,0,,If you don't go home soon, I'll file\Na complaint to the editor in charge of you.
-Dialogue: 0,0:19:16.87,0:19:18.16,Default,NTP,0,0,0,,What, th-that's unfair!
-Dialogue: 0,0:19:18.16,0:19:20.71,Default,NTP,0,0,0,,Okay. 10, 9, 8, 7...
-Dialogue: 0,0:19:20.71,0:19:24.38,Default,NTP,0,0,0,,I-I'll go home for today! But, just you wait!
-Dialogue: 0,0:19:24.75,0:19:28.59,Default,NTP,0,0,0,,I'm going to go tattle\Nto all my cute servants on Twitter!
-Dialogue: 0,0:19:33.18,0:19:37.72,Default,NTP,0,0,0,,Now, Izumi-sensei.\NThis is turning into a bad situation.
-Dialogue: 0,0:19:38.68,0:19:40.60,Default,NTP,0,0,0,,Wh-What is?
-Dialogue: 0,0:19:40.60,0:19:42.48,Default,NTP,0,0,0,,You don't get it?
-Dialogue: 0,0:19:43.61,0:19:47.98,Default,NTP,0,0,0,,What that troublesome author was saying\Nhad a pretty good point.
-Dialogue: 0,0:19:49.28,0:19:51.07,Default,NTP,0,0,0,,I know that.
-Dialogue: 0,0:19:51.28,0:19:55.74,Default,NTP,0,0,0,,{\i1}Instead of a no-name like me,\Na popular author like Yamada Elf is better....{\i0}
-Dialogue: 0,0:19:57.45,0:19:58.54,Default,NTP,0,0,0,,Dammit!
-Dialogue: 0,0:19:58.54,0:20:00.33,Default,NTP,0,0,0,,So? What will you do?
-Dialogue: 0,0:20:01.46,0:20:02.79,Default,NTP,0,0,0,,That's already been decided.
-Dialogue: 0,0:20:02.79,0:20:04.42,Default,NTP,0,0,0,,Ugh, oh my god!
-Dialogue: 0,0:20:04.58,0:20:07.38,Default,NTP,0,0,0,,Why isn't this elevator coming!
-Dialogue: 0,0:20:10.51,0:20:12.97,Default,NTP,0,0,0,,Sagiri! I'll do my best!
-Dialogue: 0,0:20:13.22,0:20:16.18,Default,NTP,0,0,0,,I'll definitely write a novel\Nthat's more interesting than hers!
-Dialogue: 0,0:20:16.43,0:20:19.39,Default,NTP,0,0,0,,So don't abandon me!
-Dialogue: 0,0:20:24.15,0:20:25.81,Default,NTP,0,0,0,,Why are you being rowdy?
-Dialogue: 0,0:20:26.48,0:20:31.44,Default,NTP,0,0,0,,Abandon and all that...\NWhat's that about? Did you have a nightmare?
-Dialogue: 0,0:20:31.82,0:20:36.41,Default,NTP,0,0,0,,N-No, i-it's nothing. Forget it.
-Dialogue: 0,0:20:36.83,0:20:39.08,Default,NTP,0,0,0,,Anyway, what's up with you?
-Dialogue: 0,0:20:39.79,0:20:40.79,Default,NTP,0,0,0,,What do you mean?
-Dialogue: 0,0:20:41.29,0:20:43.67,Default,NTP,0,0,0,,I mean, you opened the door...
-Dialogue: 0,0:20:45.29,0:20:49.09,Default,NTP,0,0,0,,Well... Um, uh... Umm....
-Dialogue: 0,0:20:51.92,0:20:53.51,Default,NTP,0,0,0,,I-I don't know.
-Dialogue: 0,0:20:53.84,0:20:55.84,Default,NTP,0,0,0,,Hey, that's the important part!
-Dialogue: 0,0:20:58.26,0:21:04.56,Default,NTP,0,0,0,,Nii-san... Um...\NDid you hear anything from that girl?
-Dialogue: 0,0:21:04.85,0:21:08.61,Default,NTP,0,0,0,,That girl? You mean Megumi?\NWhat do you mean by anything?
-Dialogue: 0,0:21:09.98,0:21:11.86,Default,NTP,0,0,0,,N-Nothing.
-Dialogue: 0,0:21:11.86,0:21:15.49,Default,NTP,0,0,0,,A-Anyway, did you buy the snacks\Nthat I asked for?
-Dialogue: 0,0:21:16.03,0:21:17.95,Default,NTP,0,0,0,,Yeah, I bought you some.
-Dialogue: 0,0:21:19.95,0:21:21.79,Default,NTP,0,0,0,,Konbu and Rakugan.
-Dialogue: 0,0:21:23.41,0:21:25.04,Default,NTP,0,0,0,,Wh-What's wrong?
-Dialogue: 0,0:21:25.04,0:21:27.42,Default,NTP,0,0,0,,This is a good time, so I want to tell you.
-Dialogue: 0,0:21:27.42,0:21:29.42,Default,NTP,0,0,0,,Nii-san, the snacks you buy
-Dialogue: 0,0:21:29.42,0:21:32.92,Default,NTP,0,0,0,,are like offerings for Buddhist altars,\Nand not all that tasty.
-Dialogue: 0,0:21:33.38,0:21:35.80,Default,NTP,0,0,0,,Don't buy snacks of this kind anymore.
-Dialogue: 0,0:21:36.26,0:21:37.93,Default,NTP,0,0,0,,I-I'm sorry.
-Dialogue: 0,0:21:40.89,0:21:42.22,OP_Romaji,NTP,0,0,0,,That, and...
-Dialogue: 0,0:21:43.73,0:21:48.27,Default,NTP,0,0,0,,From now on, I'll wash my own underwear.
-Dialogue: 0,0:21:48.44,0:21:50.94,Default,NTP,0,0,0,,So please don't touch them ever again.
-Dialogue: 0,0:21:54.95,0:21:59.12,Default,NTP,0,0,0,,Th-This can't...\NWhat in the world has happened?
-Dialogue: 0,0:23:29.75,0:23:34.79,ENd_2,NTP,0,0,0,,{\pos(575.933,280)}the Fallen Master
-Dialogue: 0,0:23:29.75,0:23:34.79,ENd_1,NTP,0,0,0,,{\pos(242.033,280)}Buck Naked Mansion and
-Dialogue: 0,0:02:18.20,0:02:23.88,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(210,46.222)}{\k24}ヒ{\k40}ト{\k40}リ{\k40}ゴ{\k40}ト {\k30}だ {\k45}よ {\k24}恥{\k24}ず{\k23}か{\k30}しい {\k24}こ{\k10}と {\k24}聞{\k24}か{\k24}な{\k20}い{\k20}で {\k20}よ {\k20}ね
-Dialogue: 0,0:02:18.20,0:02:23.88,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\fade(0,200)}{\pos(220,18.667)}{\k24}{\c&HC578D4&\2c&HC5BA6E&}Hi{\k40}to{\k40}ri{\k40}go{\k40}to     {\k30}da  {\k45}yo {\k24}   Ha{\k24}zu{\k23}ka{\k30}shii {\k24}   Ko{\k10}to {\k24}     Ki{\k24}ka{\k24}na{\k20}i{\k20}de     {\k20}yo {\k20}ne
-Dialogue: 0,0:02:18.20,0:02:23.88,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\k24\pos(434.601,451.556)}{\pos(444.317,19.556)\c&HC578D4&\2c&HC5BA6E&}I'm just mumbling to myself... don't ask me something so embarrassing!
-Dialogue: 0,0:02:34.71,0:02:40.00,Nii-sama,,0,0,0,,{ \t(1100,4500,\fscx110\110)\pos(412.517,35.555)}{\pos(424.884,57.777)}Nii-sama subs presents:
-Dialogue: 0,0:02:23.88,0:02:31.23,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(215,46.222)}{\k40}キ{\k33}ミ{\k33}ノ{\k44}コ{\k33}ト{\k34}だ{\k50}よ{\k20}で {\k20}も{\k20}そ{\k20}の{\k20}先{\k20}は{\k30}　    言{\k20}わ{\k20}な{\k40}い{\k20}け{\k20}ど{\k120}ね{\k0}
-Dialogue: 0,0:02:23.88,0:02:31.23,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(215.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k40}Ki{\k33}mi {\k33}no {\k44}Ko{\k33}to {\k34}da {\k50}yo {\k20}De{\k20}mo {\k20}So{\k20}no {\k10}Sa{\k10}ki {\k20}wa{\k30}        I{\k20}wa{\k20}na{\k40}i {\k20}    ke{\k20}do {\k120}ne{\k0}
-Dialogue: 0,0:02:23.88,0:02:31.23,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}It's about you... but I won't tell you any more than that!\N
-Dialogue: 0,0:02:41.37,0:02:47.10,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(235.000,46.222)}{\k29}掛{\k29}け{\k75}違{\k29}え{\k40}て{\k57}る　{\k20}ボ{\k10}タ{\k5}ン{\k28}み{\k29}た{\k28}い{\k29}な{\k28}も{\k29}ど{\k28}か{\k20}し{\k20}さ{\k29}を
-Dialogue: 0,0:02:41.37,0:02:47.10,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(245.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k29}Ka{\k29}ke{\k35}chi{\k30}ga{\k29}e{\k40}te{\k57}ru      {\k20}Bo{\k10}ta{\k5}n    {\k28}Mi{\k29}ta{\k28}i{\k29}na       {\k28}Mo{\k29}do{\k28}ka{\k20}shi{\k20}sa{\k29}wo
-Dialogue: 0,0:02:41.37,0:02:47.10,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}I'm so mixed up, like my buttons have been switched around.
-Dialogue: 0,0:02:47.10,0:02:53.00,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(235.0,46.222)}{\k40}ほ{\k30}ど{\k30}け{\k40}な{\k40}い{\k40}ま{\k60}ま{\k15}   ま{\k15}た{\k40}難{\k30}し{\k29}く{\k30}し{\k40}よ{\k10}う{\k20}と{\k20}し{\k20}て{\k30}る
-Dialogue: 0,0:02:47.10,0:02:53.00,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(250.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k40}Ho{\k30}do{\k30}ke{\k40}na{\k40}i{\k40}ma{\k60}ma{\k15}     Ma{\k15}ta{\k13} Mu{\k13}zu{\k14}ka{\k30}shi{\k29}ku{\k30} Shi{\k40}yo{\k10}u{\k20} To{\k20}shi{\k20}te{\k30}ru
-Dialogue: 0,0:02:47.10,0:02:53.00,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}Unable to figure it out, I'm just making things difficult again.
-Dialogue: 0,0:02:53.00,0:02:58.57,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(300.068,46.222)}{\k51}伝{\k51}え{\k51}た{\k50}い{\k30}  気{\k30}持{\k50}ち{\k51}は{\k51} 今{\k60}日{\k51}も
-Dialogue: 0,0:02:53.00,0:02:58.57,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(305,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k26}Tsu{\k25}ta{\k51}e{\k51}ta{\k50}i {\k30}    Ki{\k30}mo{\k50}chi{\k51} wa{\k51} Kyo{\k60}u{\k51} mo
-Dialogue: 0,0:02:53.00,0:02:58.60,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}Once again, the feeling I want to tell you
-Dialogue: 0,0:02:58.80,0:03:04.80,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(220.068,46.222)}{\k34}言{\k34}葉{\k34}に{\k34}な{\k34}る{\k34}直{\k34}前{\k33}に{\k67}　    変{\k34}換{\k15}ミ{\k15}ス{\k33}の{\k34}連{\k33}続{\k34}で{\k0}
-Dialogue: 0,0:02:58.80,0:03:04.80,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(210.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k17}Ko{\k17}to{\k34}ba {\k34}ni {\k34}Na{\k34}ru {\k17}Cho{\k17}ku{\k17}ze{\k17}n{\k33} ni{\k50}  　He{\k17}n{\k17}ka{\k17}n {\k15}Mi{\k15}su{\k33}no {\k17}Re{\k17}n{\k17}zo{\k33}ku{\k34}de{\k0}
-Dialogue: 0,0:02:58.80,0:03:04.60,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}Suffers a series of typos before it can even become words.
-Dialogue: 0,0:03:04.80,0:03:11.19,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(250.068,46.222)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k33}た{\k20}め{\k20}息{\k20}と{\k20}一{\k15}緒{\k34}に{\k33}飲{\k34}み{\k20}こ{\k40}ん{\k20}だ{\k35}ら{\k33}　{\k20}ほ{\k20}ろ{\k60}苦{\k33}い{\k34}…{\k0}
-Dialogue: 0,0:03:04.80,0:03:11.19,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\\pos(250.068,18.667)}}{\k0}{\k33}Ta{\k20}me{\k10}i{\k10}ki{\k20}  to{\k20} I{\k15}ssho{\k34} ni{\k33}   No{\k34}mi{\k20}ko{\k40}n{\k20}da{\k35}ra{\k33}　{\k20}     Ho{\k20}ro{\k30}ni{\k30}ga{\k33}i{\k34}…{\k0}
-Dialogue: 0,0:03:04.80,0:03:11.19,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}When I drink them down, along with my sighs, they taste so bitter..
-Dialogue: 0,0:03:11.65,0:03:17.55,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(160.068,46.222)}{\k0}{\k0}{\k22}ふ{\k22}と{\k22}し{\k22}た{\k22}と{\k15}き{\k15}に{\k44}　探{\k22}し{\k22}て{\k15}い{\k15}る{\k40}よ,{\k30} 君{\k22}の{\k22}笑{\k22}顔{\k22}を{\k50}　探{\k22}し{\k22}て{\k22}い{\k22}る{\k23}よ{\k0}
-Dialogue: 0,0:03:11.65,0:03:17.55,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(170.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k0}{\k22}Fu{\k22}to{\k22}shi{\k22}ta{\k22} To{\k15}ki{\k15} ni        {\k22}Sa{\k22}ga{\k22}shi{\k22}te{\k15}i{\k15}ru{\k40}yo,{\k15}    Ki{\k15}mi{\k22}no{\k22} E{\k11}ga{\k11}o{\k22} wo{\k25}   Sa{\k25}ga{\k22}shi{\k22}te{\k22}i{\k22}ru{\k23} yo{\k0}
-Dialogue: 0,0:03:11.65,0:03:17.55,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}I'm searching before I even realize, I'm searching for your smile!
-Dialogue: 0,0:03:17.55,0:03:23.24,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(250.068,46.222)}{\k0}{\k28}無{\k28}意{\k28}識{\k29}の{\k28}中{\k40}　そ{\k22}の{\k22}理{\k22}由{\k50}は　{\k28}ま{\k29}だ{\k28}言{\k29}え{\k28}な{\k20}い{\k20}け{\k20}ど{\k0}
-Dialogue: 0,0:03:17.55,0:03:23.24,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(245.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k28}Mu{\k28}i{\k14}shi{\k14}ki{\k29}no{\k14}Na{\k14}ka{\k40}　  So{\k22}no {\k22}Ri{\k11}yu{\k11}u {\k50}wa       {\k28}Ma{\k29}da {\k28}I{\k29}e{\k28}na{\k20}i{\k20} Ke{\k20}do{\k0}
-Dialogue: 0,0:03:17.55,0:03:23.24,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))\pos(433.718,463.112)}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}It happens unconsciously so I can't even tell you the reason why!
-Dialogue: 0,0:03:23.50,0:03:29.30,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(110.068,46.222)}{\k0}{\k20}ひ{\k20}と{\k20}り{\k19}で{\k20}い{\k19}る{\k20}と{\k25}　会{\k19}い{\k20}た{\k19}く{\k15}な{\k19}る{\k25}よ, {\k19}誰{\k20}と{\k19}い{\k20}た{\k39}って{\k39}　会{\k19}い{\k20}た{\k19}く{\k20}な{\k19}る{\k20}よ{\k0}
-Dialogue: 0,0:03:23.50,0:03:29.30,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(110.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k20}Hi{\k20}to{\k20}ri{\k19}     de {\k20} I{\k5}ru{\k20}   to{\k25}　       A{\k19}i{\k20}ta{\k19}ku{\k15}   na{\k19}ru{\k35}  yo,   {\k12}Da{\k12}re{\k20} to {\k19}I{\k20}ta{\k39}tte{\k39}       　A{\k19}i{\k20}ta{\k19}ku{\k20}     Na{\k19}ru{\k20}  yo{\k0}
-Dialogue: 0,0:03:23.50,0:03:29.30,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))\pos(560.918,456)}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}Whenever I'm alone, I start wanting to see you! No matter who I'm with, I start wanting to see you!
-Dialogue: 0,0:03:29.30,0:03:32.00,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(320.068,46.222)}{\k0}{\k22}た{\k50}った{\k15}一{\k35}言{\k22}　ね{\k44}え{\k22}ど{\k22}う{\k21}し{\k29}て?{\k0}
-Dialogue: 0,0:03:29.30,0:03:32.00,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(320.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k22}Ta{\k50}tta {\k8}Hi{\k8}to{\k17}ko{\k17}to{\k35}       Ne{\k44}e{\k22} Do{\k22}u{\k21}shi{\k29}te?{\k0}
-Dialogue: 0,0:03:29.30,0:03:32.00,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}It's just one single phrase, so why is it...?
-Dialogue: 0,0:03:32.00,0:03:40.60,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(180.068,46.222)}{\k0}{\k45}A{\k35}a{\k35}h {\k30}言{\k40}え{\k25}な{\k40}い{\k20}そ{\k20}の{\k80}言{\k40}葉{\k30}　言{\k40}え{\k25}な{\k40}い{\k20}こ{\k20}の{\k41}気{\k20}持{\k40}ち{\k40}　A{\k13}a{\k14}h{\k0}
-Dialogue: 0,0:03:32.00,0:03:40.60,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(180.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k45}A{\k35}a{\k35}h...     {\k30}I{\k40}e{\k25}na{\k40}i{\k20}    So{\k20}no{\k40} Ko{\k40}to{\k40}ba{\k30}     　I{\k40}e{\k25}na{\k40}i{\k20}       Ko{\k20}no{\k41} Ki{\k20}mo{\k40}chi{\k40}   　A{\k13}a{\k14}h{\k0}
-Dialogue: 0,0:03:32.00,0:03:40.60,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}Ahh... I can't say the words! I can't tell you this feeling! Ahh...
-Dialogue: 0,0:03:40.70,0:03:45.00,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(320.068,46.222)}{\k0}{\k80}早{\k39}く{\k30}   気{\k30}づ{\k30}い{\k30}て{\k30}ほ{\k30}し{\k30}い{\k30}の{\k40}に{\k0}
-Dialogue: 0,0:03:40.70,0:03:45.00,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(310.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k40}Ha{\k40}ya{\k39}ku,        {\k30}Ki{\k30}zu{\k30}i{\k30}te{\k30}ho{\k30}shi{\k30}i{\k30}      no {\k40}ni{\k0}
-Dialogue: 0,0:03:40.70,0:03:45.00,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500),{)\fade(0,200)\pos(431.068,463.112)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}I just wish you'd hurry up and realize!
-Dialogue: 0,0:03:45.00,0:03:47.00,OP_Eng,,0,0,0,,
-Dialogue: 0,0:22:17.00,0:22:24.00,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))\pos(41.517,48.889)}{\pos(34.45,60.445)}{\fade(0,200)}単純な言葉　重ねてゆく　もっと心は素直で
-Dialogue: 0,0:22:17.00,0:22:24.00,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))\pos(19.433,23.111)}{\pos(19.433,34.667)}{\fade(0,200)}Tanjun Na Kotoba  Kasaneteyuku   Motto Kokoro Wa Sunao De
-Dialogue: 0,0:22:17.00,0:22:24.00,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))}{\pos(410.75,450.667)}{\fade(0,200)}Simple words continue to flow as you grow more honest with yourself.
-Dialogue: 0,0:22:24.20,0:22:30.35,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))\pos(472.584,16)}{\fs20\pos(179.317,16.889)}{\fade(0,200)}なんでもないような　その笑顔が　明日を照らす光に
-Dialogue: 0,0:22:24.20,0:22:30.35,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))\pos(14.133,16)}{\fs18\pos(593.6,15.111)}{\fade(0,200)}Nandemo Nai You na Sono Egao ga Asu wo Terasu Hikari ni
-Dialogue: 0,0:22:24.20,0:22:30.35,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))}{\pos(410.75,450.667)}{\fade(0,200)}That smile that hides all your troubles is a light that will illuminate your tomorrow.
-Dialogue: 0,0:22:30.45,0:22:37.23,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))\pos(446.084,16.888)}{\fs20\pos(204.051,20.444)}{\fade(0,200)}ずっと気づいていたんだって　この手に抱えていたんだって
-Dialogue: 0,0:22:30.45,0:22:37.23,OP_Romaji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))\pos(14.134,16.888)}{\fs20\pos(618.334,19.555)}Zutto Kidzuite Itan datte Kono te ni Kakaete Itan Datte
-Dialogue: 0,0:22:30.45,0:22:37.23,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))}{\pos(429.3,459.556)}{\fade(0,200)}I've noticed all along! I've been holding it tightly in my arms!
-Dialogue: 0,0:22:37.60,0:22:47.25,OP_Kanji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))}{\pos(107.767,42.667)}弾けた　声に　流した　答えが　今　そっと　きっと　願いこめた
-Dialogue: 0,0:22:37.60,0:22:47.25,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))}{\pos(421.35,11.555)}Hajiketa Koe ni Nagashita Kotae ga Ima Sotto Kitto Negai Kometa
-Dialogue: 0,0:22:37.60,0:22:47.25,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))}{\pos(415.167,447.111)}An answer escaped along with my excited voice. Right now, ever so gently, I'm sure a wish was held within.
-Dialogue: 0,0:22:48.35,0:22:55.00,OP_Kanji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(272.95,16.888)}ずっと　まわる　まわる　夢の中で　繰り返し　君と踊った
-Dialogue: 0,0:22:48.35,0:22:55.00,OP_Romaji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(342.733,55.111)}Zutto Mawaru Mawaru Yume no Naka de Kurikaeshi Kimi to Odotta
-Dialogue: 0,0:22:48.35,0:22:55.00,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(416.05,462.222)}In an endlessly revolving dream, I danced with you again and again!
-Dialogue: 0,0:22:55.00,0:23:02.75,OP_Kanji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(204.05,47.111)}揺れる景色　道は続く　通り過ぎる風にふかれ\N
-Dialogue: 0,0:22:55.00,0:23:02.75,OP_Romaji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(203.167,17.778)}Yureru Keshiki Michi wa Tsudzuku Toorisugiru Kaze ni Fukare
-Dialogue: 0,0:22:55.00,0:23:02.75,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(403.683,448)}As the scenes around us sway to and fro, the path leads on. We're blown along by each passing wind.
-Dialogue: 0,0:23:02.75,0:23:09.10,OP_Kanji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\fs25\pos(324.184,45.332)}何度も　超えて行けるから　境界線　雲かき分け　手を伸ばした
-Dialogue: 0,0:23:02.75,0:23:09.10,OP_Romaji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(295.033,14.222)}Nandomo Koeteyukeru Kara Kyoukaisen Kumo Kakiwake Te O Nobashita
-Dialogue: 0,0:23:02.75,0:23:09.10,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(537.067,447.111)}Again and again, We'll overtake as many boundaries as it takes!\NWe've pushed through the clouds to reach our hands on high!
-Dialogue: 0,0:23:09.50,0:23:16.70,OP_Kanji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(446.966,48)}涙は今　浮かぶ空に預けて　走り出すの
-Dialogue: 0,0:23:09.50,0:23:16.70,OP_Romaji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(440.783,15.111)}Namida wa Ima Ukabu Sora ni Azukete Hashiridasu no
-Dialogue: 0,0:23:09.50,0:23:16.70,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(580.35,452.444)}Leaving our tears to the sky above, we'll run onward...
-Dialogue: 0,0:23:17.00,0:23:25.11,OP_Kanji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(492.9,47.111)}並んで　見つけた　輝く光を手に
-Dialogue: 0,0:23:17.00,0:23:25.11,OP_Romaji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(487.6,16)}Narande Mitsuketa Kagayaku Hikari wo te ni
-Dialogue: 0,0:23:17.00,0:23:25.11,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(408.983,462.222)}We'll take this light in hand, which we found by standing side-by-side.
+Dialogue: 0,0:00:02.50,0:00:05.17,Default,NTP,0,0,0,,You cooked all this yourself?
+Dialogue: 0,0:00:05.34,0:00:08.17,Default,NTP,0,0,0,,Yes, everything. Starting from the preparation.
+Dialogue: 0,0:00:08.17,0:00:09.80,Default,NTP,0,0,0,,Now, eat up!
+Dialogue: 0,0:00:09.80,0:00:12.18,Default,NTP,0,0,0,,I thought you were going\Nto show me how you work.
+Dialogue: 0,0:00:12.18,0:00:14.89,Default,NTP,0,0,0,,Right. As you can see,\NI'm in the middle of working!
+Dialogue: 0,0:00:16.14,0:00:18.01,Default,NTP,0,0,0,,You're a novel author, right?
+Dialogue: 0,0:00:18.01,0:00:19.35,Default,NTP,0,0,0,,Just shut up and eat!
+Dialogue: 0,0:00:23.56,0:00:26.40,Default,NTP,0,0,0,,I named that "Spring Pixie's Full Nudity Soup"!
+Dialogue: 0,0:00:26.86,0:00:27.90,Default,NTP,0,0,0,,H-How is it?
+Dialogue: 0,0:00:29.28,0:00:32.24,Default,NTP,0,0,0,,It's amazingly tasty!
+Dialogue: 0,0:02:08.63,0:02:11.63,Default,NTP,0,0,0,,Thank you for that meal. It was tasty.
+Dialogue: 0,0:02:11.63,0:02:14.01,Default,NTP,0,0,0,,I'm a professional author,\Nso of course it would be.
+Dialogue: 0,0:02:14.84,0:02:17.93,Default,NTP,0,0,0,,The feeling of wanting to cook a meal\Nfrom scratch for someone who's on your mind.
+Dialogue: 0,0:02:18.64,0:02:23.01,Default,NTP,0,0,0,,Thanks to you, I understand how\Nthe heroine thinks when she cooks for others.
+Dialogue: 0,0:02:23.22,0:02:24.39,Default,NTP,0,0,0,,I see.
+Dialogue: 0,0:02:24.89,0:02:27.48,Default,NTP,0,0,0,,I write novels as a hobby.
+Dialogue: 0,0:02:27.48,0:02:30.86,Default,NTP,0,0,0,,But hobbies you don't seriously play\Nare all boring, right?
+Dialogue: 0,0:02:31.77,0:02:34.82,Default,NTP,0,0,0,,Because it's a hobby, I put all my might into it!
+Dialogue: 0,0:02:38.82,0:02:42.33,Default,NTP,0,0,0,,{\i1}I think I like cooking even more thanks to you.{\i0}
+Dialogue: 0,0:02:44.66,0:02:45.66,Default,NTP,0,0,0,,All right!
+Dialogue: 0,0:02:49.67,0:02:52.96,Default,NTP,0,0,0,,Sagiri, this is from the neighbor, for you.
+Dialogue: 0,0:02:53.21,0:02:56.09,Default,NTP,0,0,0,,The neighbor's home-cooked meal\Nis really delicious.
+Dialogue: 0,0:03:02.76,0:03:03.72,Default,NTP,0,0,0,,Um...
+Dialogue: 0,0:03:04.01,0:03:05.14,Default,NTP,0,0,0,,Liar.
+Dialogue: 0,0:03:05.31,0:03:06.31,Default,NTP,0,0,0,,Me!?
+Dialogue: 0,0:03:09.56,0:03:10.60,Default,NTP,0,0,0,,This!
+Dialogue: 0,0:03:09.56,0:03:11.77,Default,NTP,0,0,0,,{\a6}The neighbor?\NWe don't get along at all.
+Dialogue: 0,0:03:10.94,0:03:11.77,Default,NTP,0,0,0,,Is that me?
+Dialogue: 0,0:03:12.90,0:03:13.94,Default,NTP,0,0,0,,Here!
+Dialogue: 0,0:03:15.53,0:03:16.53,Default,NTP,0,0,0,,So erotic!
+Dialogue: 0,0:03:17.36,0:03:19.99,Default,NTP,0,0,0,,No! Don't you have something else to say?
+Dialogue: 0,0:03:22.37,0:03:25.54,Default,NTP,0,0,0,,Why do you only draw girls with small boobs?
+Dialogue: 0,0:03:26.83,0:03:28.62,Default,NTP,0,0,0,,Th-That's because...
+Dialogue: 0,0:03:28.62,0:03:32.75,Default,NTP,0,0,0,,Even if I give a request to make\Nthe heroine's boobs bigger, you ignore it.
+Dialogue: 0,0:03:33.00,0:03:33.92,Default,NTP,0,0,0,,Um...
+Dialogue: 0,0:03:34.54,0:03:35.13,Default,NTP,0,0,0,,I'm...
+Dialogue: 0,0:03:36.34,0:03:39.01,Default,NTP,0,0,0,,I'm picky about the types of lewd art to draw.
+Dialogue: 0,0:03:39.01,0:03:41.34,Default,NTP,0,0,0,,I don't want to draw anything\NI haven't seen in real life!
+Dialogue: 0,0:03:41.72,0:03:43.55,Default,NTP,0,0,0,,I-In real life...
+Dialogue: 0,0:03:44.97,0:03:46.60,Default,NTP,0,0,0,,{\pos(423.116,435.555)}Don't tell me that illustration from the other day was...
+Dialogue: 0,0:03:44.97,0:03:46.60,CenterSignM,NTP,0,0,0,,{\a6\pos(202.283,289.333)}When you speak \Nof dreams, you should laugh!
+Dialogue: 0,0:03:54.27,0:03:55.36,Default,NTP,0,0,0,,{\i1}Like this?{\i0}
+Dialogue: 0,0:03:57.94,0:03:59.61,Default,NTP,0,0,0,,How outrageous!
+Dialogue: 0,0:04:00.20,0:04:01.91,Default,NTP,0,0,0,,Idiot! Lewd! Pervert!
+Dialogue: 0,0:04:02.36,0:04:06.03,Default,NTP,0,0,0,,You definitely just imagined me\Ndoing really lewd things!
+Dialogue: 0,0:04:06.49,0:04:10.00,Default,NTP,0,0,0,,I bought those string panties\Nso I can draw that lewd illustration.
+Dialogue: 0,0:04:10.00,0:04:12.04,Default,NTP,0,0,0,,You're thinking I'm lewd!
+Dialogue: 0,0:04:12.04,0:04:13.58,Default,NTP,0,0,0,,I don't think that!
+Dialogue: 0,0:04:13.75,0:04:14.50,Default,NTP,0,0,0,,Not to that extent.
+Dialogue: 0,0:04:14.63,0:04:15.88,Default,NTP,0,0,0,,Lies!
+Dialogue: 0,0:04:15.88,0:04:17.13,Default,NTP,0,0,0,,Sagiri, listen to me!
+Dialogue: 0,0:04:18.51,0:04:22.97,Default,NTP,0,0,0,,An older brother doesn't think of lewd things\Nwith his younger sister!
+Dialogue: 0,0:04:23.51,0:04:27.39,Default,NTP,0,0,0,,No matter how erotic you are,\Nit won't turn me on.
+Dialogue: 0,0:04:27.39,0:04:30.14,Default,NTP,0,0,0,,And moreover, I'd never make fun of you!
+Dialogue: 0,0:04:30.14,0:04:32.48,Default,NTP,0,0,0,,That's what an older brother is.
+Dialogue: 0,0:04:37.77,0:04:39.03,Default,NTP,0,0,0,,So stupid.
+Dialogue: 0,0:04:39.78,0:04:43.53,Default,NTP,0,0,0,,I don't care about or trust any older brothers\Nwho are lewd liars.
+Dialogue: 0,0:04:46.32,0:04:48.28,Default,NTP,0,0,0,,Hey, can that be...
+Dialogue: 0,0:04:49.62,0:04:51.04,Default,NTP,0,0,0,,Is that our neighbor, Yamada-san?
+Dialogue: 0,0:04:53.33,0:04:56.38,Default,NTP,0,0,0,,"The neighbor? We don't get along at all."
+Dialogue: 0,0:04:57.63,0:04:58.71,RightSignL2,NTP,0,0,0,,{\frz33.87\fs25\pos(753.367,152.334)}Yee-haw!
+Dialogue: 0,0:05:01.38,0:05:04.22,RightSignL2,NTP,0,0,0,,{\frz27.69\pos(189.8,184.333)}"The neighbor's home-cooked meal\Nis really delicious."
+Dialogue: 0,0:05:05.30,0:05:06.34,Default,NTP,0,0,0,,Liar.
+Dialogue: 0,0:05:06.72,0:05:08.72,Default,NTP,0,0,0,,So that's what this is about.
+Dialogue: 0,0:05:09.10,0:05:12.23,Default,NTP,0,0,0,,It's true that I head over\Nto the neighbor's a lot lately.
+Dialogue: 0,0:05:12.23,0:05:13.44,Default,NTP,0,0,0,,But there's a reason for it.
+Dialogue: 0,0:05:13.44,0:05:14.35,Default,NTP,0,0,0,,What reason?
+Dialogue: 0,0:05:14.35,0:05:15.44,Default,NTP,0,0,0,,That's...
+Dialogue: 0,0:05:17.11,0:05:19.40,Default,NTP,0,0,0,,...something I can't say for now.
+Dialogue: 0,0:05:21.61,0:05:22.82,Default,NTP,0,0,0,,Liar.
+Dialogue: 0,0:05:22.99,0:05:26.36,Default,NTP,0,0,0,,Always, all the time, everything is a lie.
+Dialogue: 0,0:05:26.36,0:05:27.53,Default,NTP,0,0,0,,Nii-san...
+Dialogue: 0,0:05:28.07,0:05:29.99,Default,NTP,0,0,0,,Nii-san, I hate you.
+Dialogue: 0,0:05:30.41,0:05:31.91,Default,NTP,0,0,0,,I don't want to see your face.
+Dialogue: 0,0:05:33.16,0:05:36.21,Default,NTP,0,0,0,,Then, I'll prove that I'm not a liar.
+Dialogue: 0,0:05:36.58,0:05:38.63,Default,NTP,0,0,0,,For the past year, I've been thinking
+Dialogue: 0,0:05:38.63,0:05:42.01,Default,NTP,0,0,0,,about how I can get you\Nto recognize me as your older brother.
+Dialogue: 0,0:05:42.01,0:05:43.51,Default,NTP,0,0,0,,I finally get it now.
+Dialogue: 0,0:05:43.88,0:05:45.47,Default,NTP,0,0,0,,Sagiri, I...
+Dialogue: 0,0:05:46.68,0:05:48.14,Default,NTP,0,0,0,,I'll make my younger sister my heroine!
+Dialogue: 0,0:05:50.26,0:05:52.97,Default,NTP,0,0,0,,I'll write a light-novel\Nthat's about my younger sister!
+Dialogue: 0,0:05:53.43,0:05:58.15,Default,NTP,0,0,0,,I'll write about my favorite thing in the world,\Nand create the ultimate light-novel!
+Dialogue: 0,0:05:59.19,0:06:01.57,Default,NTP,0,0,0,,I'm not happy about that one bit!\NNot happy at all!
+Dialogue: 0,0:06:01.57,0:06:05.36,Default,NTP,0,0,0,,I'm not going to open up my heart\Nwith anything like that! It's just gross!
+Dialogue: 0,0:06:05.74,0:06:08.91,Default,NTP,0,0,0,,I hate older brothers who are liars!\NI don't trust you!
+Dialogue: 0,0:06:09.12,0:06:11.08,Default,NTP,0,0,0,,Hurry up and get out!
+Dialogue: 0,0:06:19.33,0:06:20.84,Default,NTP,0,0,0,,{\i1}Let's do our best together next time, too!{\i0}
+Dialogue: 0,0:06:24.13,0:06:25.26,Default,NTP,0,0,0,,Liar.
+Dialogue: 0,0:06:29.93,0:06:31.05,Default,NTP,0,0,0,,{\i1}I'll do it.{\i0}
+Dialogue: 0,0:06:31.05,0:06:34.27,Default,NTP,0,0,0,,{\i1}With my max-fire motivation, I'll do what I can.{\i0}
+Dialogue: 0,0:06:46.07,0:06:50.24,Default,NTP,0,0,0,,{\i1}Several days passed. Before I knew it,\Nroughly two weeks were already gone.{\i0}
+Dialogue: 0,0:06:50.95,0:06:54.45,Default,NTP,0,0,0,,{\i1}I haven't seen Sagiri's face ever since.{\i0}
+Dialogue: 0,0:06:56.12,0:07:00.25,Default,NTP,0,0,0,,{\i1}Sensei, please do something about\Nthe proposal for your new title by this week.{\i0}
+Dialogue: 0,0:07:00.79,0:07:04.34,Default,NTP,0,0,0,,I'm sorry, but I'd like a little bit more time.
+Dialogue: 0,0:07:05.17,0:07:08.55,Default,NTP,0,0,0,,{\i1}All right. Then take your time to think it out.{\i0}
+Dialogue: 0,0:07:09.47,0:07:11.80,Default,NTP,0,0,0,,{\i1}It's really scary to turn down work.{\i0}
+Dialogue: 0,0:07:11.97,0:07:16.10,Default,NTP,0,0,0,,{\i1}If I don't publish a new title,\Nmy position disappears all too quickly.{\i0}
+Dialogue: 0,0:07:16.47,0:07:17.93,Default,NTP,0,0,0,,{\i1}Even the fans forget about me.{\i0}
+Dialogue: 0,0:07:19.23,0:07:22.19,Default,NTP,0,0,0,,{\i1}Two years ago, I wrote and wrote,\Nyet not one book was published.{\i0}
+Dialogue: 0,0:07:22.19,0:07:25.65,Default,NTP,0,0,0,,{\i1}I was losing heart,\Nand I'm about to be back in that state.{\i0}
+Dialogue: 0,0:07:26.15,0:07:29.78,Default,NTP,0,0,0,,{\i1}I'm fighting such fears, but still, I...{\i0}
+Dialogue: 0,0:07:38.96,0:07:42.08,Default,NTP,0,0,0,,{\i1}I wrote something interesting.\NI have a good feeling about this.{\i0}
+Dialogue: 0,0:07:44.00,0:07:45.05,Default,NTP,0,0,0,,{\a6}It's open?
+Dialogue: 0,0:07:45.25,0:07:48.34,Default,NTP,0,0,0,,{\a6}Yamada Elf-sensei? Are you here?
+Dialogue: 0,0:07:49.09,0:07:51.09,Default,NTP,0,0,0,,{\a6}I hope you don't mind my intrusion.
+Dialogue: 0,0:07:54.10,0:07:55.01,Default,NTP,0,0,0,,Elf...
+Dialogue: 0,0:08:02.19,0:08:03.19,Default,NTP,0,0,0,,This is...
+Dialogue: 0,0:08:04.27,0:08:06.65,Default,NTP,0,0,0,,Oh, you were here?
+Dialogue: 0,0:08:07.32,0:08:09.36,Default,NTP,0,0,0,,Right. Today was the promised day.
+Dialogue: 0,0:08:10.28,0:08:12.24,Default,NTP,0,0,0,,Wait for me in the living room.
+Dialogue: 0,0:08:12.78,0:08:13.74,Default,NTP,0,0,0,,Got it.
+Dialogue: 0,0:08:17.70,0:08:21.12,Default,NTP,0,0,0,,{\i1}Such a serious look on her face...\NI've never seen it before.{\i0}
+Dialogue: 0,0:08:21.12,0:08:22.54,Default,NTP,0,0,0,,Sorry to make you wait!
+Dialogue: 0,0:08:24.79,0:08:26.92,Default,NTP,0,0,0,,This is my new novel!
+Dialogue: 0,0:08:25.13,0:08:26.80,RightSignL2,NTP,0,0,0,,{\an8\pos(242.033,301.334)\frz2.804}Chronicles of\NWandering Cat Girls
+Dialogue: 0,0:08:25.13,0:08:26.80,RightSignL2,NTP,0,0,0,,{\an8\frz2.804\pos(236.733,387.556)}Yamada Elf
+Dialogue: 0,0:08:27.21,0:08:30.42,Default,NTP,0,0,0,,You said yesterday\Nthat you haven't written one word of it yet!
+Dialogue: 0,0:08:31.30,0:08:33.80,Default,NTP,0,0,0,,With my ability "Summon Darkness",
+Dialogue: 0,0:08:33.80,0:08:36.51,Default,NTP,0,0,0,,I summoned a completed manuscript\Nfrom the demon realm!
+Dialogue: 0,0:08:37.64,0:08:40.14,Default,NTP,0,0,0,,I-Impossible! Such an ability!?
+Dialogue: 0,0:08:40.48,0:08:43.73,Default,NTP,0,0,0,,You thought I'd be surprised? You were\Ndesperately writing that until moments ago!
+Dialogue: 0,0:08:44.27,0:08:48.19,Default,NTP,0,0,0,,I totally wasn't writing.\NI totally summoned this from the demon realm!
+Dialogue: 0,0:08:48.98,0:08:52.57,Default,NTP,0,0,0,,If you think I'm lying,\Nyou can check my laptop.
+Dialogue: 0,0:08:52.57,0:08:55.37,Default,NTP,0,0,0,,You erased it just for a stupid little trick?
+Dialogue: 0,0:08:55.37,0:08:57.83,Default,NTP,0,0,0,,Ya-Yamada Elf's new title...
+Dialogue: 0,0:08:57.83,0:09:00.66,Default,NTP,0,0,0,,B-But I'm Yamada Elf...
+Dialogue: 0,0:09:01.00,0:09:02.25,Default,NTP,0,0,0,,Besides, see?
+Dialogue: 0,0:09:02.91,0:09:04.87,Default,NTP,0,0,0,,The manuscript is right here.
+Dialogue: 0,0:09:05.50,0:09:07.38,Default,NTP,0,0,0,,Time for the showdown, Izumi Masamune.
+Dialogue: 0,0:09:07.38,0:09:10.55,Default,NTP,0,0,0,,I'll see through your little piece\Nwith my God Eye!
+Dialogue: 0,0:09:10.84,0:09:12.80,Default,NTP,0,0,0,,Bring it on, Yamada Elf.
+Dialogue: 0,0:09:12.80,0:09:15.64,Default,NTP,0,0,0,,That novel you summoned\Nfrom the demon realm with all your might...
+Dialogue: 0,0:09:15.64,0:09:17.01,Default,NTP,0,0,0,,I'll have a read of it!
+Dialogue: 0,0:09:23.56,0:09:25.90,Default,NTP,0,0,0,,{\i1}Interesting. It's tremendously interesting!{\i0}
+Dialogue: 0,0:09:26.73,0:09:29.90,Default,NTP,0,0,0,,{\i1}The hand keeps flipping the pages.\NAnd my heart keeps wanting more!{\i0}
+Dialogue: 0,0:09:29.90,0:09:32.28,Default,NTP,0,0,0,,{\i1}Is this the true skills of an author whose works\Nget turned into anime?{\i0}
+Dialogue: 0,0:09:32.65,0:09:35.70,Default,NTP,0,0,0,,{\i1}On top of that, all the heroines\Nhave small breasts.{\i0}
+Dialogue: 0,0:09:35.70,0:09:37.99,Default,NTP,0,0,0,,{\i1}There are so many poses that Eromanga Sensei\Nwould love to draw.{\i0}
+Dialogue: 0,0:09:37.99,0:09:40.99,Default,NTP,0,0,0,,{\i1}And it's full of situations and outfits\Nthat she might like!{\i0}
+Dialogue: 0,0:09:41.24,0:09:42.50,Default,NTP,0,0,0,,{\i1}And then...{\i0}
+Dialogue: 0,0:09:43.00,0:09:44.62,Default,NTP,0,0,0,,{\i1}It's super erotic.{\i0}
+Dialogue: 0,0:09:44.62,0:09:47.08,Default,NTP,0,0,0,,{\i1}It's tuned to be ultra-specialized.{\i0}
+Dialogue: 0,0:09:47.08,0:09:49.71,Default,NTP,0,0,0,,{\i1}This is a light-novel made for Eromanga Sensei!{\i0}
+Dialogue: 0,0:09:50.21,0:09:51.71,Default,NTP,0,0,0,,You know, this...
+Dialogue: 0,0:09:55.88,0:09:58.51,Default,NTP,0,0,0,,Is this manuscript for real?
+Dialogue: 0,0:10:05.14,0:10:06.77,Default,NTP,0,0,0,,Well, Masamune?
+Dialogue: 0,0:10:06.77,0:10:09.40,Default,NTP,0,0,0,,This is very important. Answer me.
+Dialogue: 0,0:10:09.40,0:10:11.27,Default,NTP,0,0,0,,O-Of course, I'm dead serious.
+Dialogue: 0,0:10:11.52,0:10:12.36,Default,NTP,0,0,0,,I see!
+Dialogue: 0,0:10:21.16,0:10:22.29,Default,NTP,0,0,0,,What the hell is going on?
+Dialogue: 0,0:10:22.99,0:10:25.08,Default,NTP,0,0,0,,I can't...
+Dialogue: 0,0:10:26.16,0:10:28.46,Default,NTP,0,0,0,,I can't win against this.
+Dialogue: 0,0:10:29.33,0:10:30.21,Default,NTP,0,0,0,,So unfair!
+Dialogue: 0,0:10:31.13,0:10:33.38,Default,NTP,0,0,0,,Was my manuscript that interestin—
+Dialogue: 0,0:10:33.38,0:10:35.72,Default,NTP,0,0,0,,No! That's not what I'm talking about!
+Dialogue: 0,0:10:36.17,0:10:39.22,Default,NTP,0,0,0,,How dare you make me\Nread something like this?
+Dialogue: 0,0:10:39.22,0:10:41.51,Default,NTP,0,0,0,,Such... Such...
+Dialogue: 0,0:10:42.35,0:10:45.10,Default,NTP,0,0,0,,Was it that boring?
+Dialogue: 0,0:10:45.27,0:10:48.52,Default,NTP,0,0,0,,The one I wrote will sell ten billion times more!
+Dialogue: 0,0:10:49.73,0:10:51.11,Default,NTP,0,0,0,,But this...
+Dialogue: 0,0:10:51.40,0:10:53.86,Default,NTP,0,0,0,,I can't compete against this!
+Dialogue: 0,0:10:54.28,0:10:55.44,Default,NTP,0,0,0,,H-Hey!
+Dialogue: 0,0:10:55.44,0:10:56.65,Default,NTP,0,0,0,,What's up with you?
+Dialogue: 0,0:10:57.36,0:11:02.08,Default,NTP,0,0,0,,This manuscript wasn't written\Nto amuse a lot of readers.
+Dialogue: 0,0:11:02.49,0:11:07.91,Default,NTP,0,0,0,,You put your soul into this,\Nand wrote this just for one person!
+Dialogue: 0,0:11:09.67,0:11:13.13,Default,NTP,0,0,0,,Reading this crap of a manuscript\Nthat is definitely not sellable,
+Dialogue: 0,0:11:13.13,0:11:16.80,Default,NTP,0,0,0,,the only ones who would get emotional\Nin this whole world would be myself, and
+Dialogue: 0,0:11:16.80,0:11:19.51,Default,NTP,0,0,0,,your younger sister, Eromanga Sensei!
+Dialogue: 0,0:11:19.88,0:11:21.97,Default,NTP,0,0,0,,H-How'd you find out?
+Dialogue: 0,0:11:22.39,0:11:24.85,Default,NTP,0,0,0,,It's pretty obvious after reading this.
+Dialogue: 0,0:11:24.85,0:11:25.89,Default,NTP,0,0,0,,Seriously?
+Dialogue: 0,0:11:27.02,0:11:31.65,Default,NTP,0,0,0,,It's like you plainly wrote here\Nthat your younger sister is Eromanga Sensei.
+Dialogue: 0,0:11:31.86,0:11:36.03,Default,NTP,0,0,0,,I was planning on having\Nmy younger sister read this novel.
+Dialogue: 0,0:11:37.61,0:11:39.03,Default,NTP,0,0,0,,Why don't you do that?
+Dialogue: 0,0:11:39.03,0:11:42.07,Default,NTP,0,0,0,,I think your thoughtfulness\Nwill get across to her.
+Dialogue: 0,0:11:42.07,0:11:46.66,Default,NTP,0,0,0,,This super-duper-ultra-passionate\N300 page love letter.
+Dialogue: 0,0:11:51.62,0:11:54.13,Default,NTP,0,0,0,,I was wondering what kind\Nof an exhibitionist you were.
+Dialogue: 0,0:11:54.13,0:11:56.46,Default,NTP,0,0,0,,But to think you weren't conscious of it.
+Dialogue: 0,0:11:57.17,0:11:59.97,Default,NTP,0,0,0,,I lost. I totally lost this one.
+Dialogue: 0,0:12:00.76,0:12:03.47,Default,NTP,0,0,0,,Wait, what are you doing!?
+Dialogue: 0,0:12:04.22,0:12:06.47,Default,NTP,0,0,0,,Why are you crying?
+Dialogue: 0,0:12:06.47,0:12:10.23,Default,NTP,0,0,0,,Such a lewd, amusing masterpiece...\NLost forever...
+Dialogue: 0,0:12:10.89,0:12:12.48,Default,NTP,0,0,0,,Well, thank you.
+Dialogue: 0,0:12:12.98,0:12:16.65,Default,NTP,0,0,0,,If it won't have those illustrations,\Nthen there's no point in leaving it around.
+Dialogue: 0,0:12:18.15,0:12:22.82,Default,NTP,0,0,0,,Listen, I've lost,\Nbut that doesn't mean you've won.
+Dialogue: 0,0:12:22.82,0:12:24.07,Default,NTP,0,0,0,,How are those different?
+Dialogue: 0,0:12:24.49,0:12:26.66,Default,NTP,0,0,0,,That's why you're so dense.
+Dialogue: 0,0:12:28.33,0:12:29.87,Default,NTP,0,0,0,,I'll win next time!
+Dialogue: 0,0:12:31.92,0:12:34.00,Default,NTP,0,0,0,,So, what are you going to do with that?
+Dialogue: 0,0:12:34.00,0:12:37.80,Default,NTP,0,0,0,,You won't say, "Nah, I'm not gonna\Nshow this to my younger sister," are you?
+Dialogue: 0,0:12:39.21,0:12:42.84,Default,NTP,0,0,0,,I'll do it! I was planning on it anyway.
+Dialogue: 0,0:12:44.09,0:12:46.39,Default,NTP,0,0,0,,What are you planning to do?
+Dialogue: 0,0:12:46.68,0:12:49.39,Default,NTP,0,0,0,,Are you serious? If you fall, you'll get hurt!
+Dialogue: 0,0:12:51.73,0:12:53.52,Default,NTP,0,0,0,,Eromanga-sensei!
+Dialogue: 0,0:12:57.36,0:12:58.98,Default,NTP,0,0,0,,Sagiri! I'm coming for you right now!
+Dialogue: 0,0:12:59.57,0:13:00.57,Default,NTP,0,0,0,,Nii-san?
+Dialogue: 0,0:13:24.68,0:13:28.14,Default,NTP,0,0,0,,Well, this is, um, well...
+Dialogue: 0,0:13:28.60,0:13:33.10,Default,NTP,0,0,0,,Sagiri! I completed the manuscript\Nfor my new piece! I want you to read it!
+Dialogue: 0,0:13:37.06,0:13:38.57,Default,NTP,0,0,0,,Well, I'm sorry.
+Dialogue: 0,0:13:39.07,0:13:41.69,Default,NTP,0,0,0,,{\a6}It's okay now. But, it's not okay.
+Dialogue: 0,0:13:41.69,0:13:44.15,Default,NTP,0,0,0,,{\a6}Why did you do something so dangerous?
+Dialogue: 0,0:13:44.74,0:13:48.62,Default,NTP,0,0,0,,Because you never opened\Nthe door for me since that time.
+Dialogue: 0,0:13:48.99,0:13:49.95,Default,NTP,0,0,0,,Here.
+Dialogue: 0,0:13:49.95,0:13:50.91,Default,NTP,0,0,0,,What?
+Dialogue: 0,0:13:50.91,0:13:53.50,Default,NTP,0,0,0,,The reason I didn't open my door for a while.
+Dialogue: 0,0:13:55.54,0:13:56.79,Default,NTP,0,0,0,,This is...
+Dialogue: 0,0:13:57.08,0:13:59.34,Default,NTP,0,0,0,,Battle scenes. Have I gotten better\Nat drawing them?
+Dialogue: 0,0:13:59.71,0:14:01.46,Default,NTP,0,0,0,,It's almost like someone else drew them!
+Dialogue: 0,0:14:02.30,0:14:03.42,Default,NTP,0,0,0,,I see.
+Dialogue: 0,0:14:03.84,0:14:08.60,Default,NTP,0,0,0,,I watched videos of martial arts matches,\Nand read up on many references for weapons.
+Dialogue: 0,0:14:08.60,0:14:10.14,Default,NTP,0,0,0,,So that's why it's so...
+Dialogue: 0,0:14:10.76,0:14:17.10,Default,NTP,0,0,0,,But I don't like stories\Nwith people getting hurt or dying.
+Dialogue: 0,0:14:17.10,0:14:18.19,Default,NTP,0,0,0,,That's from—
+Dialogue: 0,0:14:19.90,0:14:23.03,Default,NTP,0,0,0,,No, I've always been like that from before.\NDon't get me wrong.
+Dialogue: 0,0:14:23.03,0:14:25.95,Default,NTP,0,0,0,,It's sad when the character you like\Nis no longer in the story.
+Dialogue: 0,0:14:25.95,0:14:28.53,Default,NTP,0,0,0,,That's why I've always resisted drawing that.
+Dialogue: 0,0:14:29.41,0:14:34.66,Default,NTP,0,0,0,,But, seeing face-to-face for the first time,\Nand talking about creating titles...
+Dialogue: 0,0:14:34.66,0:14:38.12,Default,NTP,0,0,0,,I felt it wasn't right\Nfor me to just be good at drawing what I like.
+Dialogue: 0,0:14:38.12,0:14:40.59,Default,NTP,0,0,0,,Because I said you sucked...
+Dialogue: 0,0:14:41.13,0:14:46.17,Default,NTP,0,0,0,,I was really disappointed,\Nso I felt that I should fight as well.
+Dialogue: 0,0:14:46.68,0:14:48.72,Default,NTP,0,0,0,,Fight, as in, against me?
+Dialogue: 0,0:14:48.72,0:14:50.89,Default,NTP,0,0,0,,No. Look at this, too.
+Dialogue: 0,0:14:52.60,0:14:54.85,Default,NTP,0,0,0,,When I color it, it looks like this.
+Dialogue: 0,0:14:55.27,0:14:56.98,Default,NTP,0,0,0,,This is a version with a different hair style.
+Dialogue: 0,0:14:57.52,0:14:58.40,Default,NTP,0,0,0,,How is it?
+Dialogue: 0,0:14:58.40,0:15:00.94,Default,NTP,0,0,0,,You learned how to draw\Ncharacters with big boobs?
+Dialogue: 0,0:15:01.36,0:15:03.94,Default,NTP,0,0,0,,I got it to a level where I can barely get by.
+Dialogue: 0,0:15:04.78,0:15:06.44,Default,NTP,0,0,0,,She looks like this when stripped.
+Dialogue: 0,0:15:07.90,0:15:09.16,Default,NTP,0,0,0,,What do you think?
+Dialogue: 0,0:15:09.16,0:15:10.91,Default,NTP,0,0,0,,I think it's really erotic and very good.
+Dialogue: 0,0:15:13.12,0:15:17.41,Default,NTP,0,0,0,,{\i1}I see. So for the past couple weeks,\Nyou were practicing this.{\i0}
+Dialogue: 0,0:15:17.41,0:15:18.71,Default,NTP,0,0,0,,Izumi-sensei.
+Dialogue: 0,0:15:19.08,0:15:20.71,Default,NTP,0,0,0,,Do you understand now?
+Dialogue: 0,0:15:20.71,0:15:24.30,Default,NTP,0,0,0,,It's impossible to drop me\Nfrom working on your new title.
+Dialogue: 0,0:15:25.46,0:15:28.05,Default,NTP,0,0,0,,{\a6}What do you mean? Who said that?
+Dialogue: 0,0:15:28.05,0:15:30.55,Default,NTP,0,0,0,,{\a6}I mean, you were hiding something from me.
+Dialogue: 0,0:15:30.55,0:15:33.01,Default,NTP,0,0,0,,{\a6}You were secretly meeting\Nwith our neighbor, Yamada-san.
+Dialogue: 0,0:15:33.39,0:15:34.81,Default,NTP,0,0,0,,You seemed to have fun.
+Dialogue: 0,0:15:35.10,0:15:39.35,Default,NTP,0,0,0,,You'd never meet anyone like that\Noutside of your job.
+Dialogue: 0,0:15:40.48,0:15:45.15,Default,NTP,0,0,0,,Since you started seeing her,\Nyou seemed really motivated.
+Dialogue: 0,0:15:45.36,0:15:49.57,Default,NTP,0,0,0,,I thought, she must be your new illustrator.
+Dialogue: 0,0:15:50.03,0:15:53.07,Default,NTP,0,0,0,,So I cooped myself up\Nin my room and practiced.
+Dialogue: 0,0:15:53.07,0:15:54.03,Default,NTP,0,0,0,,Sagiri...
+Dialogue: 0,0:15:54.45,0:15:58.04,Default,NTP,0,0,0,,Izumi-sensei said his younger sister\Nwas going to be his heroine.
+Dialogue: 0,0:15:58.04,0:16:00.71,Default,NTP,0,0,0,,He said he was going to create\Nthe ultimate light-novel.
+Dialogue: 0,0:16:00.71,0:16:02.58,Default,NTP,0,0,0,,I was actually happy about that,
+Dialogue: 0,0:16:02.58,0:16:06.38,Default,NTP,0,0,0,,and that's when I thought I had to draw\Nthe illustrations for it, no matter what.
+Dialogue: 0,0:16:08.05,0:16:10.34,Default,NTP,0,0,0,,I'm never, ever going to lose!
+Dialogue: 0,0:16:10.34,0:16:13.76,Default,NTP,0,0,0,,I won't hand over Izumi-sensei\Nto someone like that!
+Dialogue: 0,0:16:16.35,0:16:18.68,Default,NTP,0,0,0,,That's my line.
+Dialogue: 0,0:16:19.81,0:16:21.56,Default,NTP,0,0,0,,It's all a misunderstanding.
+Dialogue: 0,0:16:21.56,0:16:25.77,Default,NTP,0,0,0,,Yamada-san next door is the popular author,\NYamada Elf-sensei.
+Dialogue: 0,0:16:26.15,0:16:28.07,Default,NTP,0,0,0,,Yamada Elf-sensei...
+Dialogue: 0,0:16:28.07,0:16:34.53,Default,NTP,0,0,0,,Yes. Sh-She's a huge fan of Eromanga Sensei,\Nand wants to work together with her.
+Dialogue: 0,0:16:35.41,0:16:39.95,Default,NTP,0,0,0,,So we engaged in a novel duel,\Nwith Eromanga-sensei at stake.
+Dialogue: 0,0:16:40.21,0:16:42.33,Default,NTP,0,0,0,,What? I didn't hear about this.
+Dialogue: 0,0:16:42.75,0:16:44.83,Default,NTP,0,0,0,,I didn't want to tell you.
+Dialogue: 0,0:16:44.83,0:16:50.13,Default,NTP,0,0,0,,Because I was afraid to be told you'd rather\Nwork with a popular author instead of me.
+Dialogue: 0,0:16:50.88,0:16:52.01,Default,NTP,0,0,0,,I was scared.
+Dialogue: 0,0:16:53.05,0:16:55.64,Default,NTP,0,0,0,,Impossible! Nii-san, you really are an idiot!
+Dialogue: 0,0:16:56.85,0:17:01.14,Default,NTP,0,0,0,,I think so, too.\NI have to tell you in the end, anyway.
+Dialogue: 0,0:17:01.56,0:17:04.90,Default,NTP,0,0,0,,That's not what I mean!\NThat's exactly how—
+Dialogue: 0,0:17:06.19,0:17:07.11,Default,NTP,0,0,0,,Enough.
+Dialogue: 0,0:17:07.48,0:17:11.95,Default,NTP,0,0,0,,I'm sorry but, I've already defeated her.\NI won!
+Dialogue: 0,0:17:14.16,0:17:17.41,Default,NTP,0,0,0,,That's amazing.\NTo think you'd win against her...
+Dialogue: 0,0:17:17.41,0:17:18.74,Default,NTP,0,0,0,,Izumi-sensei, you're amazing!
+Dialogue: 0,0:17:19.70,0:17:23.79,Default,NTP,0,0,0,,Actually, we were going to have you\Nread both and decide.
+Dialogue: 0,0:17:23.79,0:17:26.71,Default,NTP,0,0,0,,No need for that.\NFrom the start, I've already decided.
+Dialogue: 0,0:17:29.00,0:17:31.88,Default,NTP,0,0,0,,Let's keep working together\Nfrom now on, Izumi-sensei!
+Dialogue: 0,0:17:34.76,0:17:38.26,Default,NTP,0,0,0,,The pleasure is all mine, Eromanga-sensei.
+Dialogue: 0,0:17:39.60,0:17:41.52,Default,NTP,0,0,0,,{\a6}I don't know anyone by that name.
+Dialogue: 0,0:17:46.52,0:17:48.23,RightSignL2,NTP,0,0,0,,{\a6\pos(537.817,233.444)\frz29.52}Untitled\NIzumi Masamune
+Dialogue: 0,0:17:47.19,0:17:48.23,Default,NTP,0,0,0,,Let me read this.
+Dialogue: 0,0:17:48.61,0:17:51.61,Default,NTP,0,0,0,,R-R-R-Right. Y-Y-Y-Yeah.
+Dialogue: 0,0:17:51.61,0:17:53.40,Default,NTP,0,0,0,,Why are you flustered?
+Dialogue: 0,0:17:53.40,0:17:56.70,Default,NTP,0,0,0,,I'm not flustered! No, not flustered one bit!
+Dialogue: 0,0:17:57.07,0:17:57.91,Default,NTP,0,0,0,,Hurry up.
+Dialogue: 0,0:17:58.28,0:17:59.78,Default,NTP,0,0,0,,Y-Yeah.
+Dialogue: 0,0:18:00.29,0:18:02.00,Default,NTP,0,0,0,,Please read it!
+Dialogue: 0,0:18:04.75,0:18:06.71,Default,NTP,0,0,0,,Then, I'll be over there—
+Dialogue: 0,0:18:07.96,0:18:09.42,Default,NTP,0,0,0,,No. Stay here.
+Dialogue: 0,0:18:26.10,0:18:29.19,Default,NTP,0,0,0,,{\i1}N-No good. I might die from shock.{\i0}
+Dialogue: 0,0:18:30.65,0:18:31.90,Default,NTP,0,0,0,,S-Sagiri?
+Dialogue: 0,0:18:32.36,0:18:33.23,Default,NTP,0,0,0,,Y-Yes?
+Dialogue: 0,0:18:33.74,0:18:36.07,Default,NTP,0,0,0,,H-How was it?
+Dialogue: 0,0:18:36.24,0:18:38.32,Default,NTP,0,0,0,,U-U-Um...
+Dialogue: 0,0:18:38.32,0:18:40.41,Default,NTP,0,0,0,,I think it's really interesting!
+Dialogue: 0,0:18:40.78,0:18:41.83,Default,NTP,0,0,0,,Really!?
+Dialogue: 0,0:18:41.83,0:18:43.12,Default,NTP,0,0,0,,It's just...
+Dialogue: 0,0:18:43.50,0:18:47.17,Default,NTP,0,0,0,,You can't publish it as a book like this.
+Dialogue: 0,0:18:47.17,0:18:49.88,Default,NTP,0,0,0,,I can't have anyone else read this.
+Dialogue: 0,0:18:49.88,0:18:51.09,Default,NTP,0,0,0,,It's so embarrassing.
+Dialogue: 0,0:18:51.46,0:18:55.05,Default,NTP,0,0,0,,Y-You're right. That's right.
+Dialogue: 0,0:18:56.05,0:18:57.18,Default,NTP,0,0,0,,Nii-san...
+Dialogue: 0,0:18:59.34,0:19:00.64,Default,NTP,0,0,0,,I'm...
+Dialogue: 0,0:19:01.10,0:19:02.81,Default,NTP,0,0,0,,I'm in love with someone.
+Dialogue: 0,0:19:06.18,0:19:09.31,Default,NTP,0,0,0,,I-I see.
+Dialogue: 0,0:19:10.40,0:19:12.57,Default,NTP,0,0,0,,{\i1}Right. That's how it should be.{\i0}
+Dialogue: 0,0:19:12.57,0:19:18.95,Default,NTP,0,0,0,,{\i1}Because we're siblings.\NI decided that I was going to be her family.{\i0}
+Dialogue: 0,0:19:21.53,0:19:22.66,Default,NTP,0,0,0,,Got it.
+Dialogue: 0,0:20:53.63,0:20:56.29,Default,NTP,0,0,0,,Oh, I see, I see.
+Dialogue: 0,0:20:56.29,0:20:58.00,Default,NTP,0,0,0,,So you got rejected.
+Dialogue: 0,0:20:58.00,0:21:00.01,Default,NTP,0,0,0,,What's with that stupid grin on your face?
+Dialogue: 0,0:21:01.47,0:21:02.76,Default,NTP,0,0,0,,Serves you right!
+Dialogue: 0,0:21:02.76,0:21:04.97,Default,NTP,0,0,0,,So? What happened after that?
+Dialogue: 0,0:21:04.97,0:21:06.64,Default,NTP,0,0,0,,After that...
+Dialogue: 0,0:21:08.39,0:21:09.72,Default,NTP,0,0,0,,You know, Sagiri...
+Dialogue: 0,0:21:10.64,0:21:12.39,Default,NTP,0,0,0,,I have a dream now, too.
+Dialogue: 0,0:21:12.39,0:21:13.19,Default,NTP,0,0,0,,Dream?
+Dialogue: 0,0:21:13.19,0:21:15.86,Default,NTP,0,0,0,,That's right, a really big dream!
+Dialogue: 0,0:21:16.73,0:21:19.32,Default,NTP,0,0,0,,I'll turn this manuscript into a book.
+Dialogue: 0,0:21:19.90,0:21:24.07,Default,NTP,0,0,0,,It's out of the question as is,\Nso I'll rethink it, and write a project proposal.
+Dialogue: 0,0:21:24.07,0:21:27.91,Default,NTP,0,0,0,,I'll have my editor approve it, too.\NThat's where it begins.
+Dialogue: 0,0:21:27.91,0:21:30.08,Default,NTP,0,0,0,,But I'll make sure to turn this into a book.
+Dialogue: 0,0:21:30.08,0:21:35.25,Default,NTP,0,0,0,,I'll amuse tons of people with it, and have them\Nlove the main character and the heroine.
+Dialogue: 0,0:21:35.25,0:21:39.30,Default,NTP,0,0,0,,It'll get super popular, and make enough money\Nfor us to easily live on our own.
+Dialogue: 0,0:21:39.92,0:21:42.05,Default,NTP,0,0,0,,And then, have it turn into an anime!
+Dialogue: 0,0:21:42.26,0:21:44.55,Default,NTP,0,0,0,,Is that your dream, Nii-san?
+Dialogue: 0,0:21:44.55,0:21:47.39,Default,NTP,0,0,0,,No, no. That's all preparation.
+Dialogue: 0,0:21:47.39,0:21:50.43,Default,NTP,0,0,0,,We'll buy a large LCD television\Nfor the living room,
+Dialogue: 0,0:21:50.43,0:21:52.85,Default,NTP,0,0,0,,and get ridiculously expensive speakers.
+Dialogue: 0,0:21:52.85,0:21:55.10,Default,NTP,0,0,0,,And then we'll have\Na magnificent cake, with candles.
+Dialogue: 0,0:21:55.60,0:21:59.07,Default,NTP,0,0,0,,I'll take you out of your room,\Nand we'll watch the anime together!
+Dialogue: 0,0:21:59.48,0:22:03.57,Default,NTP,0,0,0,,It'll be our anime, where I wrote the story\Nand you drew the illustrations!
+Dialogue: 0,0:22:04.03,0:22:07.16,Default,NTP,0,0,0,,That way, I think both of us\Nwould have a lot of fun!
+Dialogue: 0,0:22:07.87,0:22:10.87,Default,NTP,0,0,0,,All the sad things will be blown away by it!
+Dialogue: 0,0:22:11.24,0:22:15.46,Default,NTP,0,0,0,,That's my dream. It's the goal I have to get to!
+Dialogue: 0,0:22:15.46,0:22:17.58,Default,NTP,0,0,0,,How is it? Isn't it amazing?
+Dialogue: 0,0:22:19.71,0:22:22.34,Default,NTP,0,0,0,,It won't help if I speak in a loud voice.
+Dialogue: 0,0:22:23.34,0:22:26.80,Default,NTP,0,0,0,,I see. This time, too, huh?
+Dialogue: 0,0:22:27.18,0:22:28.05,Default,NTP,0,0,0,,This time?
+Dialogue: 0,0:22:40.90,0:22:43.11,Default,NTP,0,0,0,,Sagiri, you...
+Dialogue: 0,0:22:43.49,0:22:46.86,Default,NTP,0,0,0,,You've always been like that, Izumi-sensei.
+Dialogue: 0,0:22:49.32,0:22:51.83,Default,NTP,0,0,0,,You always give me dreams.
+Dialogue: 0,0:22:52.62,0:22:55.87,Default,NTP,0,0,0,,That's great, Izumi-sensei.\NLet's do it!
+Dialogue: 0,0:22:55.87,0:22:59.42,Default,NTP,0,0,0,,I'm not gonna let you\Ndo something so fun all by yourself!
+Dialogue: 0,0:22:59.96,0:23:02.59,Default,NTP,0,0,0,,That's not a dream for you alone.
+Dialogue: 0,0:23:02.59,0:23:04.88,Default,NTP,0,0,0,,Let's make that our dream, together.
+Dialogue: 0,0:23:09.97,0:23:11.39,Default,NTP,0,0,0,,I'm a little hungry.
+Dialogue: 0,0:23:13.18,0:23:16.48,Default,NTP,0,0,0,,Right, right. I got it. Hold on for a bit.
+Dialogue: 0,0:23:18.52,0:23:21.94,Default,NTP,0,0,0,,{\i1}Our first step towards our dream.{\i0}
+Dialogue: 0,0:23:23.02,0:23:27.82,Default,NTP,0,0,0,,{\i1}I don't think I'll ever forget about this day\Nfor the rest of my life.{\i0}
+Dialogue: 0,0:23:29.99,0:23:34.90,ENd_1,NTP,0,0,0,,{\pos(295.917,280)}Let's Plan a Light-Novel with your
+Dialogue: 0,0:23:29.99,0:23:34.90,ENd_2,NTP,0,0,0,,{\pos(664.267,280)}younger sister
+Dialogue: 0,0:23:34.95,0:23:36.95,ENd_1,,0,0,0,,
+Dialogue: 0,0:00:38.20,0:00:43.88,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(210,46.222)}{\k24}ヒ{\k40}ト{\k40}リ{\k40}ゴ{\k40}ト {\k30}だ {\k45}よ {\k24}恥{\k24}ず{\k23}か{\k30}しい {\k24}こ{\k10}と {\k24}聞{\k24}か{\k24}な{\k20}い{\k20}で {\k20}よ {\k20}ね
+Dialogue: 0,0:00:38.20,0:00:43.88,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\fade(0,200)}{\pos(220,18.667)}{\k24}{\c&HC578D4&\2c&HC5BA6E&}Hi{\k40}to{\k40}ri{\k40}go{\k40}to     {\k30}da  {\k45}yo {\k24}   Ha{\k24}zu{\k23}ka{\k30}shii {\k24}   Ko{\k10}to {\k24}     Ki{\k24}ka{\k24}na{\k20}i{\k20}de     {\k20}yo {\k20}ne
+Dialogue: 0,0:00:38.20,0:00:43.88,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\k24\pos(434.601,451.556)}{\pos(444.317,19.556)\c&HC578D4&\2c&HC5BA6E&}I'm just mumbling to myself... don't ask me something so embarrassing!
+Dialogue: 0,0:00:54.71,0:01:00.00,Nii-sama,,0,0,0,,{ \t(1100,4500,\fscx110\110)\pos(412.517,35.555)}{\pos(424.884,57.777)}Nii-sama subs presents:
+Dialogue: 0,0:00:43.88,0:00:51.23,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(215,46.222)}{\k40}キ{\k33}ミ{\k33}ノ{\k44}コ{\k33}ト{\k34}だ{\k50}よ{\k20}で {\k20}も{\k20}そ{\k20}の{\k20}先{\k20}は{\k30}　    言{\k20}わ{\k20}な{\k40}い{\k20}け{\k20}ど{\k120}ね{\k0}
+Dialogue: 0,0:00:43.88,0:00:51.23,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(215.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k40}Ki{\k33}mi {\k33}no {\k44}Ko{\k33}to {\k34}da {\k50}yo {\k20}De{\k20}mo {\k20}So{\k20}no {\k10}Sa{\k10}ki {\k20}wa{\k30}        I{\k20}wa{\k20}na{\k40}i {\k20}    ke{\k20}do {\k120}ne{\k0}
+Dialogue: 0,0:00:43.88,0:00:51.23,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}It's about you... but I won't tell you any more than that!\N
+Dialogue: 0,0:01:01.37,0:01:07.10,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(235.000,46.222)}{\k29}掛{\k29}け{\k75}違{\k29}え{\k40}て{\k57}る　{\k20}ボ{\k10}タ{\k5}ン{\k28}み{\k29}た{\k28}い{\k29}な{\k28}も{\k29}ど{\k28}か{\k20}し{\k20}さ{\k29}を
+Dialogue: 0,0:01:01.37,0:01:07.10,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(245.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k29}Ka{\k29}ke{\k35}chi{\k30}ga{\k29}e{\k40}te{\k57}ru      {\k20}Bo{\k10}ta{\k5}n    {\k28}Mi{\k29}ta{\k28}i{\k29}na       {\k28}Mo{\k29}do{\k28}ka{\k20}shi{\k20}sa{\k29}wo
+Dialogue: 0,0:01:01.37,0:01:07.10,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}I'm so mixed up, like my buttons have been switched around.
+Dialogue: 0,0:01:07.10,0:01:13.00,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(235.0,46.222)}{\k40}ほ{\k30}ど{\k30}け{\k40}な{\k40}い{\k40}ま{\k60}ま{\k15}   ま{\k15}た{\k40}難{\k30}し{\k29}く{\k30}し{\k40}よ{\k10}う{\k20}と{\k20}し{\k20}て{\k30}る
+Dialogue: 0,0:01:07.10,0:01:13.00,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(250.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k40}Ho{\k30}do{\k30}ke{\k40}na{\k40}i{\k40}ma{\k60}ma{\k15}     Ma{\k15}ta{\k13} Mu{\k13}zu{\k14}ka{\k30}shi{\k29}ku{\k30} Shi{\k40}yo{\k10}u{\k20} To{\k20}shi{\k20}te{\k30}ru
+Dialogue: 0,0:01:07.10,0:01:13.00,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}Unable to figure it out, I'm just making things difficult again.
+Dialogue: 0,0:01:13.00,0:01:18.57,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(300.068,46.222)}{\k51}伝{\k51}え{\k51}た{\k50}い{\k30}  気{\k30}持{\k50}ち{\k51}は{\k51} 今{\k60}日{\k51}も
+Dialogue: 0,0:01:13.00,0:01:18.57,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(305,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k26}Tsu{\k25}ta{\k51}e{\k51}ta{\k50}i {\k30}    Ki{\k30}mo{\k50}chi{\k51} wa{\k51} Kyo{\k60}u{\k51} mo
+Dialogue: 0,0:01:13.00,0:01:18.60,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}Once again, the feeling I want to tell you
+Dialogue: 0,0:01:18.80,0:01:24.80,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(220.068,46.222)}{\k34}言{\k34}葉{\k34}に{\k34}な{\k34}る{\k34}直{\k34}前{\k33}に{\k67}　    変{\k34}換{\k15}ミ{\k15}ス{\k33}の{\k34}連{\k33}続{\k34}で{\k0}
+Dialogue: 0,0:01:18.80,0:01:24.80,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(210.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k17}Ko{\k17}to{\k34}ba {\k34}ni {\k34}Na{\k34}ru {\k17}Cho{\k17}ku{\k17}ze{\k17}n{\k33} ni{\k50}  　He{\k17}n{\k17}ka{\k17}n {\k15}Mi{\k15}su{\k33}no {\k17}Re{\k17}n{\k17}zo{\k33}ku{\k34}de{\k0}
+Dialogue: 0,0:01:18.80,0:01:24.60,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}Suffers a series of typos before it can even become words.
+Dialogue: 0,0:01:24.80,0:01:31.19,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(250.068,46.222)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k33}た{\k20}め{\k20}息{\k20}と{\k20}一{\k15}緒{\k34}に{\k33}飲{\k34}み{\k20}こ{\k40}ん{\k20}だ{\k35}ら{\k33}　{\k20}ほ{\k20}ろ{\k60}苦{\k33}い{\k34}…{\k0}
+Dialogue: 0,0:01:24.80,0:01:31.19,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\\pos(250.068,18.667)}}{\k0}{\k33}Ta{\k20}me{\k10}i{\k10}ki{\k20}  to{\k20} I{\k15}ssho{\k34} ni{\k33}   No{\k34}mi{\k20}ko{\k40}n{\k20}da{\k35}ra{\k33}　{\k20}     Ho{\k20}ro{\k30}ni{\k30}ga{\k33}i{\k34}…{\k0}
+Dialogue: 0,0:01:24.80,0:01:31.19,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}When I drink them down, along with my sighs, they taste so bitter..
+Dialogue: 0,0:01:31.65,0:01:37.55,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(160.068,46.222)}{\k0}{\k0}{\k22}ふ{\k22}と{\k22}し{\k22}た{\k22}と{\k15}き{\k15}に{\k44}　探{\k22}し{\k22}て{\k15}い{\k15}る{\k40}よ,{\k30} 君{\k22}の{\k22}笑{\k22}顔{\k22}を{\k50}　探{\k22}し{\k22}て{\k22}い{\k22}る{\k23}よ{\k0}
+Dialogue: 0,0:01:31.65,0:01:37.55,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(170.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k0}{\k22}Fu{\k22}to{\k22}shi{\k22}ta{\k22} To{\k15}ki{\k15} ni        {\k22}Sa{\k22}ga{\k22}shi{\k22}te{\k15}i{\k15}ru{\k40}yo,{\k15}    Ki{\k15}mi{\k22}no{\k22} E{\k11}ga{\k11}o{\k22} wo{\k25}   Sa{\k25}ga{\k22}shi{\k22}te{\k22}i{\k22}ru{\k23} yo{\k0}
+Dialogue: 0,0:01:31.65,0:01:37.55,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}I'm searching before I even realize, I'm searching for your smile!
+Dialogue: 0,0:01:37.55,0:01:43.24,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(250.068,46.222)}{\k0}{\k28}無{\k28}意{\k28}識{\k29}の{\k28}中{\k40}　そ{\k22}の{\k22}理{\k22}由{\k50}は　{\k28}ま{\k29}だ{\k28}言{\k29}え{\k28}な{\k20}い{\k20}け{\k20}ど{\k0}
+Dialogue: 0,0:01:37.55,0:01:43.24,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(245.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k28}Mu{\k28}i{\k14}shi{\k14}ki{\k29}no{\k14}Na{\k14}ka{\k40}　  So{\k22}no {\k22}Ri{\k11}yu{\k11}u {\k50}wa       {\k28}Ma{\k29}da {\k28}I{\k29}e{\k28}na{\k20}i{\k20} Ke{\k20}do{\k0}
+Dialogue: 0,0:01:37.55,0:01:43.24,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))\pos(433.718,463.112)}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}It happens unconsciously so I can't even tell you the reason why!
+Dialogue: 0,0:01:43.50,0:01:49.30,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(110.068,46.222)}{\k0}{\k20}ひ{\k20}と{\k20}り{\k19}で{\k20}い{\k19}る{\k20}と{\k25}　会{\k19}い{\k20}た{\k19}く{\k15}な{\k19}る{\k25}よ, {\k19}誰{\k20}と{\k19}い{\k20}た{\k39}って{\k39}　会{\k19}い{\k20}た{\k19}く{\k20}な{\k19}る{\k20}よ{\k0}
+Dialogue: 0,0:01:43.50,0:01:49.30,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(110.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k20}Hi{\k20}to{\k20}ri{\k19}     de {\k20} I{\k5}ru{\k20}   to{\k25}　       A{\k19}i{\k20}ta{\k19}ku{\k15}   na{\k19}ru{\k35}  yo,   {\k12}Da{\k12}re{\k20} to {\k19}I{\k20}ta{\k39}tte{\k39}       　A{\k19}i{\k20}ta{\k19}ku{\k20}     Na{\k19}ru{\k20}  yo{\k0}
+Dialogue: 0,0:01:43.50,0:01:49.30,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))\pos(560.918,456)}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}Whenever I'm alone, I start wanting to see you! No matter who I'm with, I start wanting to see you!
+Dialogue: 0,0:01:49.30,0:01:52.00,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(320.068,46.222)}{\k0}{\k22}た{\k50}った{\k15}一{\k35}言{\k22}　ね{\k44}え{\k22}ど{\k22}う{\k21}し{\k29}て?{\k0}
+Dialogue: 0,0:01:49.30,0:01:52.00,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(320.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k22}Ta{\k50}tta {\k8}Hi{\k8}to{\k17}ko{\k17}to{\k35}       Ne{\k44}e{\k22} Do{\k22}u{\k21}shi{\k29}te?{\k0}
+Dialogue: 0,0:01:49.30,0:01:52.00,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}It's just one single phrase, so why is it...?
+Dialogue: 0,0:01:52.00,0:02:00.60,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(180.068,46.222)}{\k0}{\k45}A{\k35}a{\k35}h {\k30}言{\k40}え{\k25}な{\k40}い{\k20}そ{\k20}の{\k80}言{\k40}葉{\k30}　言{\k40}え{\k25}な{\k40}い{\k20}こ{\k20}の{\k41}気{\k20}持{\k40}ち{\k40}　A{\k13}a{\k14}h{\k0}
+Dialogue: 0,0:01:52.00,0:02:00.60,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(180.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k45}A{\k35}a{\k35}h...     {\k30}I{\k40}e{\k25}na{\k40}i{\k20}    So{\k20}no{\k40} Ko{\k40}to{\k40}ba{\k30}     　I{\k40}e{\k25}na{\k40}i{\k20}       Ko{\k20}no{\k41} Ki{\k20}mo{\k40}chi{\k40}   　A{\k13}a{\k14}h{\k0}
+Dialogue: 0,0:01:52.00,0:02:00.60,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}Ahh... I can't say the words! I can't tell you this feeling! Ahh...
+Dialogue: 0,0:02:00.70,0:02:05.00,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\c&HC578D4&\2c&HC5BA6E&\pos(320.068,46.222)}{\k0}{\k80}早{\k39}く{\k30}   気{\k30}づ{\k30}い{\k30}て{\k30}ほ{\k30}し{\k30}い{\k30}の{\k40}に{\k0}
+Dialogue: 0,0:02:00.70,0:02:05.00,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500))}{\fade(0,200)}{\pos(310.068,18.667)}{\c&HC578D4&\2c&HC5BA6E&}{\k0}{\k40}Ha{\k40}ya{\k39}ku,        {\k30}Ki{\k30}zu{\k30}i{\k30}te{\k30}ho{\k30}shi{\k30}i{\k30}      no {\k40}ni{\k0}
+Dialogue: 0,0:02:00.70,0:02:05.00,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,800,500),{)\fade(0,200)\pos(431.068,463.112)}{\pos(434.601,451.556)}{\c&HC578D4&\2c&HC5BA6E&}I just wish you'd hurry up and realize!
+Dialogue: 0,0:02:05.00,0:02:07.00,OP_Eng,,0,0,0,,
+Dialogue: 0,0:19:40.00,0:19:47.00,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))\pos(41.517,48.889)}{\pos(34.45,60.445)}{\fade(0,200)}単純な言葉　重ねてゆく　もっと心は素直で
+Dialogue: 0,0:19:40.00,0:19:47.00,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))\pos(19.433,23.111)}{\pos(19.433,34.667)}{\fade(0,200)}Tanjun Na Kotoba  Kasaneteyuku   Motto Kokoro Wa Sunao De
+Dialogue: 0,0:19:40.00,0:19:47.00,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))}{\pos(410.75,450.667)}{\fade(0,200)}Simple words continue to flow as you grow more honest with yourself.
+Dialogue: 0,0:19:47.20,0:19:53.35,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))\pos(472.584,16)}{\fs20\pos(179.317,16.889)}{\fade(0,200)}なんでもないような　その笑顔が　明日を照らす光に
+Dialogue: 0,0:19:47.20,0:19:53.35,OP_Romaji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))\pos(14.133,16)}{\fs18\pos(593.6,15.111)}{\fade(0,200)}Nandemo Nai You na Sono Egao ga Asu wo Terasu Hikari ni
+Dialogue: 0,0:19:47.20,0:19:53.35,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))}{\pos(410.75,450.667)}{\fade(0,200)}That smile that hides all your troubles is a light that will illuminate your tomorrow.
+Dialogue: 0,0:19:53.45,0:20:00.23,OP_Kanji,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))\pos(446.084,16.888)}{\fs20\pos(204.051,20.444)}{\fade(0,200)}ずっと気づいていたんだって　この手に抱えていたんだって
+Dialogue: 0,0:19:53.45,0:20:00.23,OP_Romaji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))\pos(14.134,16.888)}{\fs20\pos(618.334,19.555)}Zutto Kidzuite Itan datte Kono te ni Kakaete Itan Datte
+Dialogue: 0,0:19:53.45,0:20:00.23,OP_Eng,,0,0,0,,{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))}{\pos(429.3,459.556)}{\fade(0,200)}I've noticed all along! I've been holding it tightly in my arms!
+Dialogue: 0,0:20:00.60,0:20:10.25,OP_Kanji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))}{\pos(107.767,42.667)}弾けた　声に　流した　答えが　今　そっと　きっと　願いこめた
+Dialogue: 0,0:20:00.60,0:20:10.25,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))}{\pos(421.35,11.555)}Hajiketa Koe ni Nagashita Kotae ga Ima Sotto Kitto Negai Kometa
+Dialogue: 0,0:20:00.60,0:20:10.25,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,830,500))}{\pos(415.167,447.111)}An answer escaped along with my excited voice. Right now, ever so gently, I'm sure a wish was held within.
+Dialogue: 0,0:20:11.35,0:20:18.00,OP_Kanji,,0,0,0,,{\fade(0,200)\pos(275.777,48.888)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(272.95,16.888)}ずっと　まわる　まわる　夢の中で　繰り返し　君と踊った
+Dialogue: 0,0:20:11.35,0:20:18.00,OP_Romaji,,0,0,0,,{\fade(0,200)\pos(345.56,16.711)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(342.733,55.111)}Zutto Mawaru Mawaru Yume no Naka de Kurikaeshi Kimi to Odotta
+Dialogue: 0,0:20:11.35,0:20:18.00,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(416.05,462.222)}In an endlessly revolving dream, I danced with you again and again!
+Dialogue: 0,0:20:18.00,0:20:25.75,OP_Kanji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(204.05,47.111)}揺れる景色　道は続く　通り過ぎる風にふかれ\N
+Dialogue: 0,0:20:18.00,0:20:25.75,OP_Romaji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(203.167,17.778)}Yureru Keshiki Michi wa Tsudzuku Toorisugiru Kaze ni Fukare
+Dialogue: 0,0:20:18.00,0:20:25.75,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(403.683,448)}As the scenes around us sway to and fro, the path leads on. We're blown along by each passing wind.
+Dialogue: 0,0:20:25.75,0:20:32.10,OP_Kanji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\fs25\pos(324.184,45.332)}何度も　超えて行けるから　境界線　雲かき分け　手を伸ばした
+Dialogue: 0,0:20:25.75,0:20:32.10,OP_Romaji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(295.033,14.222)}Nandomo Koeteyukeru Kara Kyoukaisen Kumo Kakiwake Te O Nobashita
+Dialogue: 0,0:20:25.75,0:20:32.10,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(537.067,447.111)}Again and again, We'll overtake as many boundaries as it takes!\NWe've pushed through the clouds to reach our hands on high!
+Dialogue: 0,0:20:32.50,0:20:39.70,OP_Kanji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(446.966,48)}涙は今　浮かぶ空に預けて　走り出すの
+Dialogue: 0,0:20:32.50,0:20:39.70,OP_Romaji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(440.783,15.111)}Namida wa Ima Ukabu Sora ni Azukete Hashiridasu no
+Dialogue: 0,0:20:32.50,0:20:39.70,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(580.35,452.444)}Leaving our tears to the sky above, we'll run onward...
+Dialogue: 0,0:20:40.00,0:20:48.11,OP_Kanji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(492.9,47.111)}並んで　見つけた　輝く光を手に
+Dialogue: 0,0:20:40.00,0:20:48.11,OP_Romaji,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(487.6,16)}Narande Mitsuketa Kagayaku Hikari wo te ni
+Dialogue: 0,0:20:40.00,0:20:48.11,OP_Eng,,0,0,0,,{\fade(0,200)}{\clip(0,0,22,500)\t(0,600,\clip(0,0,850,500))}{\pos(408.983,462.222)}We'll take this light in hand, which we found by standing side-by-side.
+Dialogue: 0,0:20:59.95,0:21:01.95,ENd_1,,0,0,0,,
+Dialogue: 0,0:20:58.04,0:21:00.04,ENd_2,,0,0,0,,
