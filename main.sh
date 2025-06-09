@@ -97,8 +97,13 @@ message="$(eval "printf '%s' \"$(sed -E 's_\{\\n\}_\n_g;s_(\{[^\x7d]*\})_\$\1_g'
 # post it in the front page
 post_id="$(post_fp "${prev_frame}" | grep -Po '(?=[0-9])(.*)(?=\",\")')" || failed "${prev_frame}" "${episode}"
 
+post_commentsubs "${prev_frame}" "${post_id}"
+
 # Post images in Albums
 [[ -z "${album}" ]] || post_album "${prev_frame}"
+
+
+
 
 # Addons, Random Crop from frame
 if [[ "${rand_post}" = "1" ]]; then

@@ -27,6 +27,7 @@ post_randomcrop(){
 	unset TEMP_CRAFTMESSAGE
 }
 
+
 post_fp(){
 	curl -sfLX POST \
 		--retry 2 \
@@ -35,6 +36,19 @@ post_fp(){
 		-F "message=${message}" \
 		-F "source=@${FRMENV_FRAME_LOCATION}/frame_${1}.jpg" \
 	"${FRMENV_API_ORIGIN}/me/photos?access_token=${FRMENV_FBTOKEN}&published=1"
+}
+
+post_commentsubs(){
+	local commentsub_path="${FRMENV_COMMENTSUBS_LOCATION}/frame_${1}.jpg"
+	if [[ -f "$commentsub_path" ]]; then
+		curl -sfLX POST \
+			--retry 2 \
+			--retry-connrefused \
+			--retry-delay 7 \
+			-F "source=@${commentsub_path}" \
+			-o /dev/null \
+		"${FRMENV_API_ORIGIN}/${FRMENV_FBAPI_VER}/${2}/comments?access_token=${FRMENV_FBTOKEN}" || return 1
+	fi
 }
 
 post_album(){
@@ -49,14 +63,16 @@ post_album(){
 }
 
 post_subs(){
-	curl -sfLX POST \
-		--retry 2 \
-		--retry-connrefused \
-		--retry-delay 7 \
-		--data-urlencode "message=${message_comment}" \
-		-o /dev/null \
-	"${FRMENV_API_ORIGIN}/${FRMENV_FBAPI_VER}/${1}/comments?access_token=${FRMENV_FBTOKEN}" || return 1
+    # Post the comment message generated from process_subs
+    curl -sfLX POST \
+        --retry 2 \
+        --retry-connrefused \
+        --retry-delay 7 \
+        --data-urlencode "message=${message_comment}" \
+        -o /dev/null \
+    "${FRMENV_API_ORIGIN}/${FRMENV_FBAPI_VER}/${1}/comments?access_token=${FRMENV_FBTOKEN}" || return 1
 }
+
 
 post_changedesc(){
 	ovr_all="$(sed -E ':L;s=\b([0-9]+)([0-9]{3})\b=\1,\2=g;t L' counter_n.txt)"
